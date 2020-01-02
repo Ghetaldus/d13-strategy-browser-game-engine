@@ -1,0 +1,1327 @@
+[
+  [
+    {
+      "active": true,
+      "type": "unit",
+      "id": 0,
+      "cost": [
+        {
+          "resource": 0,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 1,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 2,
+          "factor": 1.5,
+          "value": 10
+        }
+      ],
+      "battlestats": [
+        {
+          "stat": "all",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "active": true,
+      "type": "unit",
+      "id": 1,
+      "cost": [
+        {
+          "resource": 0,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 1,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 2,
+          "factor": 1.5,
+          "value": 10
+        }
+      ],
+      "battlestats": [
+        {
+          "stat": "all",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "active": true,
+      "type": "unit",
+      "id": 2,
+      "cost": [
+        {
+          "resource": 0,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 1,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 2,
+          "factor": 1.5,
+          "value": 10
+        }
+      ],
+      "battlestats": [
+        {
+          "stat": "all",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "active": true,
+      "type": "unit",
+      "id": 3,
+      "cost": [
+        {
+          "resource": 0,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 1,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 2,
+          "factor": 1.5,
+          "value": 10
+        }
+      ],
+      "battlestats": [
+        {
+          "stat": "all",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "active": true,
+      "type": "unit",
+      "id": 4,
+      "cost": [
+        {
+          "resource": 0,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 1,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 2,
+          "factor": 1.5,
+          "value": 10
+        }
+      ],
+      "battlestats": [
+        {
+          "stat": "all",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "active": true,
+      "type": "unit",
+      "id": 5,
+      "cost": [
+        {
+          "resource": 0,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 1,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 2,
+          "factor": 1.5,
+          "value": 10
+        }
+      ],
+      "battlestats": [
+        {
+          "stat": "all",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "active": true,
+      "type": "unit",
+      "id": 6,
+      "cost": [
+        {
+          "resource": 0,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 1,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 2,
+          "factor": 1.5,
+          "value": 10
+        }
+      ],
+      "battlestats": [
+        {
+          "stat": "all",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "active": true,
+      "type": "unit",
+      "id": 7,
+      "cost": [
+        {
+          "resource": 0,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 1,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 2,
+          "factor": 1.5,
+          "value": 10
+        }
+      ],
+      "battlestats": [
+        {
+          "stat": "all",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "active": true,
+      "type": "unit",
+      "id": 8,
+      "cost": [
+        {
+          "resource": 0,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 1,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 2,
+          "factor": 1.5,
+          "value": 10
+        }
+      ],
+      "battlestats": [
+        {
+          "stat": "all",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "active": true,
+      "type": "unit",
+      "id": 9,
+      "cost": [
+        {
+          "resource": 0,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 1,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 2,
+          "factor": 1.5,
+          "value": 10
+        }
+      ],
+      "battlestats": [
+        {
+          "stat": "all",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "active": true,
+      "type": "unit",
+      "id": 10,
+      "cost": [
+        {
+          "resource": 0,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 1,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 2,
+          "factor": 1.5,
+          "value": 10
+        }
+      ],
+      "battlestats": [
+        {
+          "stat": "all",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "active": true,
+      "type": "unit",
+      "id": 11,
+      "cost": [
+        {
+          "resource": 0,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 1,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 2,
+          "factor": 1.5,
+          "value": 10
+        }
+      ],
+      "battlestats": [
+        {
+          "stat": "all",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "active": true,
+      "type": "unit",
+      "id": 12,
+      "cost": [
+        {
+          "resource": 0,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 1,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 2,
+          "factor": 1.5,
+          "value": 10
+        }
+      ],
+      "battlestats": [
+        {
+          "stat": "all",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "active": true,
+      "type": "unit",
+      "id": 13,
+      "cost": [
+        {
+          "resource": 0,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 1,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 2,
+          "factor": 1.5,
+          "value": 10
+        }
+      ],
+      "battlestats": [
+        {
+          "stat": "all",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "active": true,
+      "type": "unit",
+      "id": 14,
+      "cost": [
+        {
+          "resource": 0,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 1,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 2,
+          "factor": 1.5,
+          "value": 10
+        }
+      ],
+      "battlestats": [
+        {
+          "stat": "all",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "active": true,
+      "type": "unit",
+      "id": 15,
+      "cost": [
+        {
+          "resource": 0,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 1,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 2,
+          "factor": 1.5,
+          "value": 10
+        }
+      ],
+      "battlestats": [
+        {
+          "stat": "all",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "active": true,
+      "type": "unit",
+      "id": 16,
+      "cost": [
+        {
+          "resource": 0,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 1,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 2,
+          "factor": 1.5,
+          "value": 10
+        }
+      ],
+      "battlestats": [
+        {
+          "stat": "all",
+          "value": 2
+        }
+      ]
+    },
+    
+     {
+      "active": true,
+      "type": "leader",
+      "id": 19,
+      "cost": [
+        {
+          "resource": 0,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 1,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 2,
+          "factor": 1.5,
+          "value": 10
+        }
+      ],
+      "battlestats": [
+        {
+          "stat": "all",
+          "value": 2
+        }
+      ]
+    },
+     {
+      "active": true,
+      "type": "leader",
+      "id": 20,
+      "cost": [
+        {
+          "resource": 0,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 1,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 2,
+          "factor": 1.5,
+          "value": 10
+        }
+      ],
+      "battlestats": [
+        {
+          "stat": "all",
+          "value": 2
+        }
+      ]
+    },
+     {
+      "active": true,
+      "type": "leader",
+      "id": 21,
+      "cost": [
+        {
+          "resource": 0,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 1,
+          "factor": 1.5,
+          "value": 10
+        },
+        {
+          "resource": 2,
+          "factor": 1.5,
+          "value": 10
+        }
+      ],
+      "battlestats": [
+        {
+          "stat": "all",
+          "value": 2
+        }
+      ]
+    },
+    
+    
+    
+    
+    {
+      "active": false,
+      "type": "unit",
+      "id": 22,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 23,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 24,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 25,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 26,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 27,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 28,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 29,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 30,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 31,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 32,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 33,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 34,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 35,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 36,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 37,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 38,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 39,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 40,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 41,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 42,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 43,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 44,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 45,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 46,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 47,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 48,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 49,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 50,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 51,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 52,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 53,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 54,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 55,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 56,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 57,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 58,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 59,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 60,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 61,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 62,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 63,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 64,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 65,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 66,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 67,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 68,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 69,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 70,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 71,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 72,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 73,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 74,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 75,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 76,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 77,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 78,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 79,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 80,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 81,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 82,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 83,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 84,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 85,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 86,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 87,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 88,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 89,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 90,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": false,
+      "type": "unit",
+      "id": 91,
+      "battlestats": [
+        
+      ]
+    },
+    
+     {
+      "active": false,
+      "type": "unit",
+      "id": 92,
+      "battlestats": [
+        
+      ]
+    },
+     {
+      "active": false,
+      "type": "unit",
+      "id": 93,
+      "battlestats": [
+        
+      ]
+    },
+     {
+      "active": false,
+      "type": "unit",
+      "id": 94,
+      "battlestats": [
+        
+      ]
+    },
+     {
+      "active": false,
+      "type": "unit",
+      "id": 95,
+      "battlestats": [
+        
+      ]
+    },
+     {
+      "active": false,
+      "type": "unit",
+      "id": 96,
+      "battlestats": [
+        
+      ]
+    },
+     {
+      "active": false,
+      "type": "unit",
+      "id": 97,
+      "battlestats": [
+        
+      ]
+    },
+     {
+      "active": false,
+      "type": "unit",
+      "id": 98,
+      "battlestats": [
+        
+      ]
+    },
+     {
+      "active": false,
+      "type": "unit",
+      "id": 99,
+      "battlestats": [
+        
+      ]
+    },
+     {
+      "active": false,
+      "type": "unit",
+      "id": 100,
+      "battlestats": [
+        
+      ]
+    },
+     {
+      "active": false,
+      "type": "unit",
+      "id": 101,
+      "battlestats": [
+        
+      ]
+    },
+    
+     {
+      "active": false,
+      "type": "unit",
+      "id": 102,
+      "battlestats": [
+        
+      ]
+    },
+     {
+      "active": false,
+      "type": "unit",
+      "id": 103,
+      "battlestats": [
+        
+      ]
+    },
+     {
+      "active": false,
+      "type": "unit",
+      "id": 104,
+      "battlestats": [
+        
+      ]
+    },
+     {
+      "active": false,
+      "type": "unit",
+      "id": 105,
+      "battlestats": [
+        
+      ]
+    },
+     {
+      "active": false,
+      "type": "unit",
+      "id": 106,
+      "battlestats": [
+        
+      ]
+    },
+     {
+      "active": false,
+      "type": "unit",
+      "id": 107,
+      "battlestats": [
+        
+      ]
+    },
+     {
+      "active": false,
+      "type": "unit",
+      "id": 108,
+      "battlestats": [
+        
+      ]
+    },
+     {
+      "active": false,
+      "type": "unit",
+      "id": 109,
+      "battlestats": [
+        
+      ]
+    },
+     {
+      "active": false,
+      "type": "unit",
+      "id": 110,
+      "battlestats": [
+        
+      ]
+    },
+     {
+      "active": false,
+      "type": "unit",
+      "id": 111,
+      "battlestats": [
+        
+      ]
+    },
+     {
+      "active": false,
+      "type": "unit",
+      "id": 112,
+      "battlestats": [
+        
+      ]
+    },
+     {
+      "active": false,
+      "type": "unit",
+      "id": 113,
+      "battlestats": [
+        
+      ]
+    },
+     {
+      "active": false,
+      "type": "unit",
+      "id": 114,
+      "battlestats": [
+        
+      ]
+    },
+    {
+      "active": true,
+      "type": "unit",
+      "id": 115,
+      "battlestats": [
+      	{
+        "stat": "all",
+        "value": 2
+      	}
+      ]
+    }
+    
+  ]
+]

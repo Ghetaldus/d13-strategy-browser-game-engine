@@ -1,0 +1,1508 @@
+[
+  [
+    {
+      "id": 0,
+      "icon": "0.png",
+      "active": true,
+      "priority": 0,
+      "type": "unit",
+      "class": "spearman",
+      "movementType": 0,
+      "hp": 300,
+      "damage": 100,
+      "armor": 50,
+      "speed": 100,
+      "vision": 1,
+      "stealth": 0,
+      "critical": 5,
+      "capacity": 5,
+      "fuel": 1,
+      "duration": 1,
+      "upkeepResource": 5,
+      "upkeep": 1,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "gainExperience": true,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "0.png"
+        }
+      ],
+      "armyAttackModifier": [
+        
+      ],
+      "armyDefenseModifier": [
+        
+      ],
+      "attackModifier": [
+        
+      ],
+      "defenseModifier": [
+        {
+          "stat": "damage",
+          "value": 0.5
+        }
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 20
+        },
+        {
+          "resource": 1,
+          "value": 40
+        },
+        {
+          "resource": 2,
+          "value": 20
+        }
+      ],
+      "requirements": [
+        {
+          "type": "components",
+          "id": 0,
+          "value": 1
+        },
+        {
+          "type": "components",
+          "id": 7,
+          "value": 1
+        }
+      ],
+      "upgrades": [
+        
+      ]
+    },
+    {
+      "id": 1,
+      "icon": "1.png",
+      "active": true,
+      "priority": 1,
+      "type": "unit",
+      "class": "spearman",
+      "movementType": 0,
+      "hp": 300,
+      "damage": 110,
+      "armor": 70,
+      "speed": 80,
+      "vision": 1,
+      "stealth": 0,
+      "critical": 5,
+      "capacity": 5,
+      "fuel": 1,
+      "duration": 1,
+      "upkeepResource": 5,
+      "upkeep": 1,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "gainExperience": true,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "1.png"
+        }
+      ],
+      "armyAttackModifier": [
+        
+      ],
+      "armyDefenseModifier": [
+        
+      ],
+      "attackModifier": [
+        
+      ],
+      "defenseModifier": [
+        
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 30
+        },
+        {
+          "resource": 1,
+          "value": 30
+        },
+        {
+          "resource": 2,
+          "value": 40
+        }
+      ],
+      "requirements": [
+        {
+          "type": "components",
+          "id": 1,
+          "value": 1
+        },
+        {
+          "type": "components",
+          "id": 7,
+          "value": 1
+        }
+      ],
+      "upgrades": [
+        
+      ]
+    },
+    {
+      "id": 2,
+      "icon": "2.png",
+      "active": true,
+      "priority": 2,
+      "type": "unit",
+      "class": "duelist",
+      "movementType": 0,
+      "hp": 250,
+      "damage": 150,
+      "armor": 30,
+      "speed": 150,
+      "vision": 1,
+      "stealth": 0,
+      "critical": 5,
+      "capacity": 5,
+      "fuel": 1,
+      "duration": 1,
+      "upkeepResource": 5,
+      "upkeep": 1,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "gainExperience": true,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "2.png"
+        }
+      ],
+      "armyAttackModifier": [
+        
+      ],
+      "armyDefenseModifier": [
+        
+      ],
+      "attackModifier": [
+        
+      ],
+      "defenseModifier": [
+        
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 20
+        },
+        {
+          "resource": 1,
+          "value": 20
+        },
+        {
+          "resource": 2,
+          "value": 30
+        }
+      ],
+      "requirements": [
+        {
+          "type": "components",
+          "id": 0,
+          "value": 1
+        },
+        {
+          "type": "components",
+          "id": 3,
+          "value": 2
+        }
+      ],
+      "upgrades": [
+        
+      ]
+    },
+    {
+      "id": 3,
+      "icon": "3.png",
+      "active": true,
+      "priority": 3,
+      "type": "unit",
+      "class": "swordsman",
+      "movementType": 0,
+      "hp": 300,
+      "damage": 120,
+      "armor": 100,
+      "speed": 70,
+      "vision": 1,
+      "stealth": 0,
+      "critical": 5,
+      "capacity": 5,
+      "fuel": 1,
+      "duration": 1,
+      "upkeepResource": 5,
+      "upkeep": 1,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "gainExperience": true,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "3.png"
+        }
+      ],
+      "armyAttackModifier": [
+        
+      ],
+      "armyDefenseModifier": [
+        
+      ],
+      "attackModifier": [
+        
+      ],
+      "defenseModifier": [
+        
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 30
+        },
+        {
+          "resource": 1,
+          "value": 40
+        },
+        {
+          "resource": 2,
+          "value": 40
+        }
+      ],
+      "requirements": [
+        {
+          "type": "components",
+          "id": 1,
+          "value": 1
+        },
+        {
+          "type": "components",
+          "id": 3,
+          "value": 1
+        },
+        {
+          "type": "components",
+          "id": 2,
+          "value": 1
+        }
+      ],
+      "upgrades": [
+        
+      ]
+    },
+    {
+      "id": 4,
+      "icon": "4.png",
+      "active": true,
+      "priority": 4,
+      "type": "unit",
+      "class": "swordsman",
+      "movementType": 0,
+      "hp": 350,
+      "damage": 130,
+      "armor": 120,
+      "speed": 50,
+      "vision": 1,
+      "stealth": 0,
+      "critical": 5,
+      "capacity": 5,
+      "fuel": 1,
+      "duration": 2,
+      "upkeepResource": 5,
+      "upkeep": 1,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "gainExperience": true,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "4.png"
+        }
+      ],
+      "armyAttackModifier": [
+        
+      ],
+      "armyDefenseModifier": [
+        
+      ],
+      "attackModifier": [
+        
+      ],
+      "defenseModifier": [
+        
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 50
+        },
+        {
+          "resource": 1,
+          "value": 70
+        },
+        {
+          "resource": 2,
+          "value": 100
+        }
+      ],
+      "requirements": [
+        {
+          "type": "technologies",
+          "id": 2,
+          "level": 1
+        },
+        {
+          "type": "components",
+          "id": 1,
+          "value": 1
+        },
+        {
+          "type": "components",
+          "id": 4,
+          "value": 1
+        },
+        {
+          "type": "components",
+          "id": 2,
+          "value": 1
+        }
+      ],
+      "upgrades": [
+        
+      ]
+    },
+    {
+      "id": 5,
+      "icon": "5.png",
+      "active": true,
+      "priority": 5,
+      "type": "unit",
+      "class": "archer",
+      "movementType": 0,
+      "hp": 250,
+      "damage": 300,
+      "armor": 30,
+      "speed": 150,
+      "vision": 1,
+      "stealth": 0,
+      "critical": 5,
+      "capacity": 5,
+      "fuel": 1,
+      "duration": 1,
+      "upkeepResource": 5,
+      "upkeep": 1,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "gainExperience": true,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "5.png"
+        }
+      ],
+      "armyAttackModifier": [
+        
+      ],
+      "armyDefenseModifier": [
+        
+      ],
+      "attackModifier": [
+        
+      ],
+      "defenseModifier": [
+        
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 30
+        },
+        {
+          "resource": 1,
+          "value": 50
+        },
+        {
+          "resource": 2,
+          "value": 40
+        }
+      ],
+      "requirements": [
+        {
+          "type": "components",
+          "id": 0,
+          "value": 1
+        },
+        {
+          "type": "components",
+          "id": 5,
+          "value": 1
+        }
+      ],
+      "upgrades": [
+        
+      ]
+    },
+    {
+      "id": 6,
+      "icon": "6.png",
+      "active": true,
+      "priority": 6,
+      "type": "unit",
+      "class": "archer",
+      "movementType": 0,
+      "hp": 250,
+      "damage": 400,
+      "armor": 70,
+      "speed": 100,
+      "vision": 1,
+      "stealth": 0,
+      "critical": 5,
+      "capacity": 5,
+      "fuel": 1,
+      "duration": 2,
+      "upkeepResource": 5,
+      "upkeep": 1,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "gainExperience": true,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "6.png"
+        }
+      ],
+      "armyAttackModifier": [
+        
+      ],
+      "armyDefenseModifier": [
+        
+      ],
+      "attackModifier": [
+        
+      ],
+      "defenseModifier": [
+        
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 30
+        },
+        {
+          "resource": 1,
+          "value": 40
+        },
+        {
+          "resource": 2,
+          "value": 50
+        }
+      ],
+      "requirements": [
+        {
+          "type": "technologies",
+          "id": 2,
+          "level": 1
+        },
+        {
+          "type": "components",
+          "id": 0,
+          "value": 1
+        },
+        {
+          "type": "components",
+          "id": 6,
+          "value": 1
+        }
+      ],
+      "upgrades": [
+        
+      ]
+    },
+    {
+      "id": 7,
+      "icon": "7.png",
+      "active": true,
+      "priority": 7,
+      "type": "unit",
+      "class": "cavalry",
+      "movementType": 0,
+      "hp": 600,
+      "damage": 140,
+      "armor": 100,
+      "speed": 250,
+      "vision": 1,
+      "stealth": 0,
+      "critical": 5,
+      "capacity": 5,
+      "fuel": 1,
+      "duration": 2,
+      "upkeepResource": 5,
+      "upkeep": 2,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "gainExperience": true,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "7.png"
+        }
+      ],
+      "armyAttackModifier": [
+        
+      ],
+      "armyDefenseModifier": [
+        
+      ],
+      "attackModifier": [
+        {
+          "stat": "damage",
+          "value": 0.5
+        }
+      ],
+      "defenseModifier": [
+        
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 100
+        },
+        {
+          "resource": 1,
+          "value": 120
+        },
+        {
+          "resource": 2,
+          "value": 150
+        }
+      ],
+      "requirements": [
+        {
+          "type": "components",
+          "id": 0,
+          "value": 1
+        },
+        {
+          "type": "components",
+          "id": 1,
+          "value": 1
+        },
+        {
+          "type": "components",
+          "id": 7,
+          "value": 1
+        }
+      ],
+      "upgrades": [
+        
+      ]
+    },
+    {
+      "id": 8,
+      "icon": "8.png",
+      "active": true,
+      "priority": 8,
+      "type": "unit",
+      "class": "cavalry",
+      "movementType": 0,
+      "hp": 600,
+      "damage": 130,
+      "armor": 120,
+      "speed": 250,
+      "vision": 1,
+      "stealth": 0,
+      "critical": 5,
+      "capacity": 5,
+      "fuel": 1,
+      "duration": 2,
+      "upkeepResource": 5,
+      "upkeep": 2,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "gainExperience": true,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "8.png"
+        }
+      ],
+      "armyAttackModifier": [
+        
+      ],
+      "armyDefenseModifier": [
+        
+      ],
+      "attackModifier": [
+        {
+          "stat": "damage",
+          "value": 0.5
+        }
+      ],
+      "defenseModifier": [
+        
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 110
+        },
+        {
+          "resource": 1,
+          "value": 140
+        },
+        {
+          "resource": 2,
+          "value": 170
+        }
+      ],
+      "requirements": [
+        {
+          "type": "components",
+          "id": 1,
+          "value": 2
+        },
+        {
+          "type": "components",
+          "id": 4,
+          "value": 1
+        },
+        {
+          "type": "components",
+          "id": 2,
+          "value": 1
+        }
+      ],
+      "upgrades": [
+        
+      ]
+    },
+    {
+      "id": 9,
+      "icon": "9.png",
+      "active": true,
+      "priority": 9,
+      "type": "unit",
+      "class": "cavalry",
+      "movementType": 0,
+      "hp": 700,
+      "damage": 140,
+      "armor": 150,
+      "speed": 220,
+      "vision": 1,
+      "stealth": 0,
+      "critical": 5,
+      "capacity": 5,
+      "fuel": 1,
+      "duration": 3,
+      "upkeepResource": 5,
+      "upkeep": 2,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "gainExperience": true,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "9.png"
+        }
+      ],
+      "armyAttackModifier": [
+        
+      ],
+      "armyDefenseModifier": [
+        
+      ],
+      "attackModifier": [
+        {
+          "stat": "damage",
+          "value": 0.5
+        }
+      ],
+      "defenseModifier": [
+        
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 130
+        },
+        {
+          "resource": 1,
+          "value": 170
+        },
+        {
+          "resource": 2,
+          "value": 200
+        }
+      ],
+      "requirements": [
+        {
+          "type": "technologies",
+          "id": 2,
+          "level": 1
+        },
+        {
+          "type": "components",
+          "id": 1,
+          "value": 2
+        },
+        {
+          "type": "components",
+          "id": 7,
+          "value": 1
+        },
+        {
+          "type": "components",
+          "id": 2,
+          "value": 1
+        }
+      ],
+      "upgrades": [
+        
+      ]
+    },
+    {
+      "id": 10,
+      "icon": "10.png",
+      "active": true,
+      "priority": 10,
+      "type": "unit",
+      "class": "duelist",
+      "movementType": 0,
+      "hp": 250,
+      "damage": 100,
+      "armor": 30,
+      "speed": 170,
+      "vision": 1,
+      "stealth": 30,
+      "critical": 5,
+      "capacity": 5,
+      "fuel": 1,
+      "duration": 1,
+      "upkeepResource": 5,
+      "upkeep": 1,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "gainExperience": true,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "10.png"
+        }
+      ],
+      "armyAttackModifier": [
+        
+      ],
+      "armyDefenseModifier": [
+        
+      ],
+      "attackModifier": [
+        
+      ],
+      "defenseModifier": [
+        
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 50
+        },
+        {
+          "resource": 1,
+          "value": 20
+        },
+        {
+          "resource": 2,
+          "value": 30
+        }
+      ],
+      "requirements": [
+        {
+          "type": "technologies",
+          "id": 2,
+          "level": 1
+        },
+        {
+          "type": "components",
+          "id": 0,
+          "value": 1
+        },
+        {
+          "type": "components",
+          "id": 3,
+          "value": 2
+        }
+      ],
+      "upgrades": [
+        
+      ]
+    },
+    {
+      "id": 11,
+      "icon": "11.png",
+      "active": true,
+      "priority": 11,
+      "type": "unit",
+      "class": "spearman",
+      "movementType": 0,
+      "hp": 200,
+      "damage": 50,
+      "armor": 10,
+      "speed": 100,
+      "vision": 1,
+      "stealth": 0,
+      "critical": 5,
+      "capacity": 5,
+      "fuel": 1,
+      "duration": 0.5,
+      "upkeepResource": 5,
+      "upkeep": 1,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "gainExperience": true,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "11.png"
+        }
+      ],
+      "armyAttackModifier": [
+        
+      ],
+      "armyDefenseModifier": [
+        
+      ],
+      "attackModifier": [
+        
+      ],
+      "defenseModifier": [
+        {
+          "stat": "damage",
+          "value": 0.5
+        }
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 70
+        }
+      ],
+      "requirements": [
+        
+      ],
+      "upgrades": [
+        
+      ]
+    },
+    {
+      "id": 12,
+      "icon": "12.png",
+      "active": true,
+      "priority": 12,
+      "type": "unit",
+      "class": "duelist",
+      "movementType": 0,
+      "hp": 250,
+      "damage": 80,
+      "armor": 20,
+      "speed": 110,
+      "vision": 1,
+      "stealth": 0,
+      "critical": 5,
+      "capacity": 5,
+      "fuel": 1,
+      "duration": 1,
+      "upkeepResource": 5,
+      "upkeep": 1,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "gainExperience": true,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "12.png"
+        }
+      ],
+      "armyAttackModifier": [
+        
+      ],
+      "armyDefenseModifier": [
+        
+      ],
+      "attackModifier": [
+        {
+          "stat": "damage",
+          "value": "0.1"
+        }
+      ],
+      "defenseModifier": [
+        
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 100
+        }
+      ],
+      "requirements": [
+        
+      ],
+      "upgrades": [
+        
+      ]
+    },
+    {
+      "id": 13,
+      "icon": "13.png",
+      "active": true,
+      "priority": 13,
+      "type": "unit",
+      "class": "duelist",
+      "movementType": 0,
+      "hp": 350,
+      "damage": 120,
+      "armor": 50,
+      "speed": 100,
+      "vision": 1,
+      "stealth": 0,
+      "critical": 5,
+      "capacity": 5,
+      "fuel": 1,
+      "duration": 1,
+      "upkeepResource": 5,
+      "upkeep": 1,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "gainExperience": true,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "13.png"
+        }
+      ],
+      "armyAttackModifier": [
+        
+      ],
+      "armyDefenseModifier": [
+        
+      ],
+      "attackModifier": [
+        
+      ],
+      "defenseModifier": [
+        
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 120
+        }
+      ],
+      "requirements": [
+        
+      ],
+      "upgrades": [
+        
+      ]
+    },
+    {
+      "id": 14,
+      "icon": "14.png",
+      "active": true,
+      "priority": 14,
+      "type": "unit",
+      "class": "archer",
+      "movementType": 0,
+      "hp": 250,
+      "damage": 150,
+      "armor": 20,
+      "speed": 140,
+      "vision": 1,
+      "stealth": 0,
+      "critical": 5,
+      "capacity": 5,
+      "fuel": 1,
+      "duration": 1,
+      "upkeepResource": 5,
+      "upkeep": 1,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "gainExperience": true,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "14.png"
+        }
+      ],
+      "armyAttackModifier": [
+        
+      ],
+      "armyDefenseModifier": [
+        
+      ],
+      "attackModifier": [
+        
+      ],
+      "defenseModifier": [
+        
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 100
+        }
+      ],
+      "requirements": [
+        
+      ],
+      "upgrades": [
+        
+      ]
+    },
+    {
+      "id": 15,
+      "icon": "15.png",
+      "active": true,
+      "priority": 15,
+      "type": "unit",
+      "class": "archer",
+      "movementType": 0,
+      "hp": 300,
+      "damage": 200,
+      "armor": 50,
+      "speed": 150,
+      "vision": 1,
+      "stealth": 10,
+      "critical": 5,
+      "capacity": 5,
+      "fuel": 1,
+      "duration": 1,
+      "upkeepResource": 5,
+      "upkeep": 1,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "gainExperience": true,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "15.png"
+        }
+      ],
+      "armyAttackModifier": [
+        
+      ],
+      "armyDefenseModifier": [
+        
+      ],
+      "attackModifier": [
+        
+      ],
+      "defenseModifier": [
+        
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 130
+        },
+        {
+          "resource": 1,
+          "value": 0
+        },
+        {
+          "resource": 2,
+          "value": 0
+        }
+      ],
+      "requirements": [
+        
+      ],
+      "upgrades": [
+        
+      ]
+    },
+    {
+      "id": 16,
+      "icon": "16.png",
+      "active": true,
+      "priority": 16,
+      "type": "unit",
+      "class": "duelist",
+      "movementType": 0,
+      "hp": 250,
+      "damage": 70,
+      "armor": 20,
+      "speed": 170,
+      "vision": 1,
+      "stealth": 20,
+      "critical": 5,
+      "capacity": 5,
+      "fuel": 1,
+      "duration": 1,
+      "upkeepResource": 5,
+      "upkeep": 1,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "gainExperience": true,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "16.png"
+        }
+      ],
+      "armyAttackModifier": [
+        
+      ],
+      "armyDefenseModifier": [
+        
+      ],
+      "attackModifier": [
+        
+      ],
+      "defenseModifier": [
+        
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 110
+        },
+        {
+          "resource": 1,
+          "value": 0
+        },
+        {
+          "resource": 2,
+          "value": 0
+        }
+      ],
+      "requirements": [
+        
+      ],
+      "upgrades": [
+        
+      ]
+    },
+    {
+      "id": 17,
+      "icon": "17.png",
+      "active": false,
+      "priority": -1,
+      "type": "turret",
+      "class": "static",
+      "movementType": 0,
+      "armorType": "fortified",
+      "hp": 1500,
+      "damage": 500,
+      "armor": 100,
+      "speed": 0,
+      "vision": 0,
+      "stealth": 0,
+      "critical": 0,
+      "capacity": 0,
+      "fuel": 1,
+      "duration": 10,
+      "upkeepResource": 5,
+      "upkeep": 5,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "gainExperience": true,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "17.png"
+        }
+      ],
+      "armyAttackModifier": [
+        
+      ],
+      "armyDefenseModifier": [
+        
+      ],
+      "attackModifier": [
+        
+      ],
+      "defenseModifier": [
+        
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 500
+        },
+        {
+          "resource": 1,
+          "value": 1000
+        },
+        {
+          "resource": 2,
+          "value": 1000
+        }
+      ],
+      "requirements": [
+        {
+          "type": "technologies",
+          "id": 2,
+          "level": 1
+        }
+      ],
+      "upgrades": [
+        0
+      ]
+    },
+    {
+      "id": 18,
+      "icon": "18.png",
+      "active": false,
+      "priority": -1,
+      "type": "turret",
+      "class": "static",
+      "movementType": 0,
+      "armorType": "fortified",
+      "hp": 3000,
+      "damage": 100,
+      "armor": 500,
+      "speed": 0,
+      "vision": 0,
+      "stealth": 0,
+      "critical": 0,
+      "capacity": 0,
+      "fuel": 1,
+      "duration": 10,
+      "upkeepResource": 5,
+      "upkeep": 5,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "gainExperience": true,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "18.png"
+        }
+      ],
+      "armyAttackModifier": [
+        
+      ],
+      "armyDefenseModifier": [
+        
+      ],
+      "attackModifier": [
+        
+      ],
+      "defenseModifier": [
+        
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 500
+        },
+        {
+          "resource": 1,
+          "value": 1000
+        },
+        {
+          "resource": 2,
+          "value": 1000
+        }
+      ],
+      "requirements": [
+        {
+          "type": "technologies",
+          "id": 2,
+          "level": 1
+        }
+      ],
+      "upgrades": [
+        
+      ]
+    },
+    {
+      "id": 19,
+      "icon": "19.png",
+      "active": true,
+      "priority": 13,
+      "type": "leader",
+      "class": "duelist",
+      "movementType": 0,
+      "hp": 3500,
+      "damage": 120,
+      "armor": 50,
+      "speed": 110,
+      "vision": 1,
+      "stealth": 0,
+      "critical": 5,
+      "capacity": 5,
+      "fuel": 1,
+      "duration": 1,
+      "upkeepResource": 5,
+      "upkeep": 1,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "gainExperience": true,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "hero_0.png"
+        }
+      ],
+      "armyAttackModifier": [
+        {
+          "stat": "damage",
+          "value": "0.2"
+        }
+      ],
+      "attackModifier": [
+        
+      ],
+      "defenseModifier": [
+        
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 120
+        },
+        {
+          "resource": 1,
+          "value": 0
+        },
+        {
+          "resource": 2,
+          "value": 0
+        }
+      ],
+      "requirements": [
+        
+      ],
+      "upgrades": [
+        
+      ]
+    },
+    {
+      "id": 20,
+      "icon": "20.png",
+      "active": true,
+      "priority": 13,
+      "type": "leader",
+      "class": "wizard",
+      "movementType": 0,
+      "hp": 3500,
+      "damage": 120,
+      "armor": 50,
+      "speed": 110,
+      "vision": 1,
+      "stealth": 0,
+      "critical": 5,
+      "capacity": 5,
+      "fuel": 1,
+      "duration": 1,
+      "upkeepResource": 5,
+      "upkeep": 1,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "gainExperience": true,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "hero_1.png"
+        }
+      ],
+      "armyAttackModifier": [
+        {
+          "stat": "armor",
+          "value": "0.2"
+        }
+      ],
+      "attackModifier": [
+        
+      ],
+      "defenseModifier": [
+        
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 120
+        },
+        {
+          "resource": 1,
+          "value": 0
+        },
+        {
+          "resource": 2,
+          "value": 0
+        }
+      ],
+      "requirements": [
+        
+      ],
+      "upgrades": [
+        
+      ]
+    },
+    {
+      "id": 21,
+      "icon": "21.png",
+      "active": true,
+      "priority": 13,
+      "type": "leader",
+      "class": "archer",
+      "movementType": 0,
+      "hp": 3500,
+      "damage": 120,
+      "armor": 50,
+      "speed": 110,
+      "vision": 1,
+      "stealth": 0,
+      "critical": 5,
+      "capacity": 5,
+      "fuel": 1,
+      "duration": 1,
+      "upkeepResource": 5,
+      "upkeep": 1,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "gainExperience": true,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "hero_2.png"
+        }
+      ],
+      "armyAttackModifier": [
+        {
+          "stat": "critical",
+          "value": "0.2"
+        }
+      ],
+      "attackModifier": [
+        
+      ],
+      "defenseModifier": [
+        
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 120
+        },
+        {
+          "resource": 1,
+          "value": 0
+        },
+        {
+          "resource": 2,
+          "value": 0
+        }
+      ],
+      "requirements": [
+        
+      ],
+      "upgrades": [
+        
+      ]
+    }
+  ]
+]

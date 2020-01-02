@@ -1,0 +1,466 @@
+/* -- D13 CSS -------------------------------------------------------------------*/
+
+body {
+	font-size: 10pt;
+	font-weight: normal;
+	font-family: 'Droid Sans';
+	overflow: hidden;
+	width: 100%;
+	height: 100%;
+ 	text-align: center;
+ 	background: #fff;
+}
+
+img {
+ border: 0px;
+}
+
+.large-card {
+	width: 90%;
+	height: 80%;
+	
+	
+	border-style: solid;
+	background: transparent;
+	border-width: 33px;
+	border-image-source: url(../images/gui/window1.png);
+    border-image-slice: 33;
+    -webkit-border-image: url(../images/gui/window1.png) 33 repeat;
+    -moz-border-image: url(../images/gui/window1.png) 33 repeat;
+    -o-border-image: url(../images/gui/window1.png) 33 repeat;
+    border-image: url(../images/gui/window1.png) 33 no-repeat;
+    background-image: url(../images/gui/window1c.png);
+}
+
+.tiny-card {
+	font-size: 9pt;
+	height: 100%;
+	width: 90%;
+	background: transparent;
+	border: 0;
+}
+
+.tiny-card-header {
+	font-size: 9pt;
+}
+
+.d13-unit {
+	width: 80px;
+	height: auto;
+	border: 0;
+}
+
+/* -- Framework7 Overwrite Styling -----------------------------------------------------*/
+
+.page ,.page-content ,.views ,.view-main ,.login-screen-content ,.statusbar ,.statusbar-overlay { 
+    overflow: hidden;
+    background: transparent;
+}
+
+.navbar, .toolbar, .subnavbar, .buttons-row, .item-content, .navbar-inner {
+	font-size: 10pt;
+	background: transparent;
+}
+
+.navbar:before, .subnavar:before, .navbar:after, .subnavbar:after, .toolbar:before, .toolbar:after {
+	border-style:none;
+	text-decoration: none;
+	border-width: 0;
+	display:none;
+	padding: auto;
+	margin: auto;
+}
+
+.subnavbar {
+	left: 0;
+	font-size: 9pt;
+	font-weight: normal;
+	background: transparent;
+}
+
+.page-content {
+	text-align: center;
+	padding: 0;
+	margin: 0;
+}
+
+.row {
+	padding: 0;
+	margin: 0;
+}
+
+.panel {
+	background: transparent;
+	overflow: hidden;
+	font-size: 9pt;
+}
+
+.card {
+	text-align: center;
+	max-width: 1024px;
+	max-height: 1024px;
+    vertical-align: middle;
+    margin: auto;
+    overflow: hidden;
+}
+
+.card-content {
+	overflow: hidden;
+	min-height: 75%;
+	max-height: 90%;
+    
+}
+
+
+
+.card-shadow {
+	-webkit-filter: drop-shadow(2px 2px 2px #222);
+    filter: drop-shadow(2px 2px 2px #222);
+}
+
+.popup, .popover {
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
+	background: transparent;
+	width: auto;
+	height: auto;
+	-webkit-filter: drop-shadow(2px 2px 2px #222);
+    filter: drop-shadow(2px 2px 2px #222);
+}
+
+.swiper-container, .swiper-container-horizontal,   {
+	width: 100%;
+	height: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+.swiper-slide {
+	padding: 0;
+	margin: 0;
+}
+
+.swiper-slide-list
+ {
+ 	min-height: 100%;
+	height: 100%;
+	width: auto;
+}
+
+.swiper-pagination-bullet {
+  width: 10px;
+  height: 10px;
+  background: none;
+  border:1px solid #aaa;
+  border-radius: 0 0 0 0;
+  opacity:1;
+  cursor: pointer;
+}
+.swiper-pagination-bullet-active {
+  background: #007aff;
+  border-color: #007aff;
+}
+
+.badge{
+	background-color: #000000;
+	background-color: hsla(0, 0%, 0%, 0.5);
+}
+
+.chip{
+	z-index: 1;
+}
+
+.chip-label{
+	font-size:9pt;
+}
+
+/* -- D13 CSS --------------------------------------------------------------------------*/
+
+.d13-image {
+	max-width: 100%;
+	height: auto;
+	border: 0;
+	vertical-align: middle;
+}
+
+.d13-node {
+ width: 100%;
+ height: 100%;
+ text-align: center;
+ position: relative;
+ vertical-align: top;
+ padding: 0;
+ margin: 0;
+}
+
+.d13-module
+{
+	width: 100%;
+ 	height: 100%;
+ 	margin: 0;
+    padding: 0;
+ 	background-repeat: no-repeat;
+}
+
+.d13-module-detail
+{
+	width: 100%;
+ 	height: auto;
+ 	margin: 0;
+    padding: auto;
+ 	background-repeat: repeat;
+}
+
+.d13-module-image {
+    max-width: 50%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
+
+.d13-micron {
+	min-width: 6px;
+	max-width: 12px;
+	height: auto;
+	padding: 0;
+	margin: 0;
+	vertical-align: middle;
+	z-index: 1;
+}
+
+.d13-icon {
+	min-width: 16px;
+	max-width: 30px;
+	height: auto;
+	padding: auto;
+	margin: auto;
+	vertical-align: middle;
+	z-index: 1;
+}
+
+img.d13-resource
+{
+	width: 24px;
+	height: auto;
+	border: 0px;
+	margin: 0px;
+	padding: 0px;
+	vertical-align: middle;
+	text-align: center;
+	z-index: 1;
+}
+
+img.d13-item
+{
+	min-width: 40px;
+ 	max-width: 80px;
+ 	height: auto;
+ 	border: 0px;
+ 	margin: 0px;
+	padding: 0px;
+	vertical-align: middle;
+	text-align: center;
+}
+
+p.d13-italic {
+	font-style: italic;
+}
+
+p.d13-bold {
+	font-weight: bold;
+}
+
+.d13-heading {
+	font-size: 13pt;
+	font-variant: small-caps;
+	text-align: center;
+}
+
+.d13-queue-right {
+	font-size:9pt;
+	overflow: visible;
+	position: absolute;
+	bottom: 2%;
+	right: 1%;
+}
+
+.d13-queue-left {
+	text-align: left;
+	font-size:9pt;
+	overflow: visible;
+	position: absolute;
+	bottom: 2%;
+	left: 1%;
+}
+
+div.d13-cell
+{
+white-space: nowrap;
+ display: inline-block;
+ vertical-align: middle;
+ text-align:left;
+ font-size: 9pt;
+}
+
+div.cell
+{
+white-space: nowrap;
+ display: inline-block;
+ padding: 2px;
+ vertical-align: middle;
+ text-align:left;
+}
+
+div.sector
+   {
+    display: inline-block;
+    white-space: nowrap;
+    cursor: pointer;
+    width: 5px;
+    height: 5px;
+    border: 1px solid transparent;
+    padding: 0;
+   }
+
+div.sector:hover
+{
+	border: 1px solid black;
+}
+
+/* ---CSS3 Animations --------------------------------------------------------------*/
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.spinner {
+  animation: spin 3s infinite linear;
+}
+
+/* -- PURE Overwrite Styling -----------------------------------------------------------*/
+
+.pure-form {
+	width: 100%;
+	height: 100%;
+	display: inline;
+	padding: 0;
+	margin: 0;
+	font-size: 9pt;
+}
+
+.pure-input {
+	margin-left: 5px;
+	max-width: 75px;
+	max-height: 50px;
+	font-size: 9pt;
+}
+
+.pure-gray 		{ background: #8e8e93; }
+.pure-white 	{ background: #ffffff; }
+.pure-black 	{ background: #000000; }
+.pure-lightblue { background: #5ac8fa; }
+.pure-yellow 	{ background: #ffcc00; }
+.pure-orange 	{ background: #ff9500; }
+.pure-pink 		{ background: #ff2d55; }
+.pure-blue 		{ background: #007aff; }
+.pure-green 	{ background: #4cd964; }
+.pure-red 		{ background: #ff3b30; }
+
+/* -- RANGE INPUT Overwrite Styling ----------------------------------------------------*/
+
+input[type=range] {
+  -webkit-appearance: none;
+  margin: 0px 5px 0 5px;
+  padding: 0;
+  background: transparent;
+  width: 50%;
+  display: inline;
+}
+input[type=range]:focus {
+  outline: none;
+}
+input[type=range]::-webkit-slider-runnable-track {
+  width: 50%;
+  height: 8.4px;
+  cursor: pointer;
+  animate: 0.2s;
+  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+  background: #DCDCDC;
+  border-radius: 1.3px;
+  border: 0.2px solid #010101;
+}
+input[type=range]::-webkit-slider-thumb {
+  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+  border: 1px solid #000000;
+  height: 24px;
+  width: 12px;
+  border-radius: 3px;
+  background: #ffffff;
+  cursor: pointer;
+  -webkit-appearance: none;
+  margin-top: -10px;
+}
+input[type=range]:focus::-webkit-slider-runnable-track {
+  background: #367ebd;
+}
+input[type=range]::-moz-range-track {
+  width: 50%;
+  height: 8.4px;
+  cursor: pointer;
+  animate: 0.2s;
+  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+  background: #3071a9;
+  border-radius: 1.3px;
+  border: 0.2px solid #010101;
+}
+input[type=range]::-moz-range-thumb {
+  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+  border: 1px solid #000000;
+  height: 24px;
+  width: 12px;
+  border-radius: 3px;
+  background: #ffffff;
+  cursor: pointer;
+}
+input[type=range]::-ms-track {
+  width: 50%;
+  height: 8.4px;
+  cursor: pointer;
+  animate: 0.2s;
+  background: transparent;
+  border-color: transparent;
+  border-width: 16px 0;
+  color: transparent;
+}
+input[type=range]::-ms-fill-lower {
+  background: #2a6495;
+  border: 0.2px solid #010101;
+  border-radius: 2.6px;
+  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+}
+input[type=range]::-ms-fill-upper {
+  background: #3071a9;
+  border: 0.2px solid #010101;
+  border-radius: 2.6px;
+  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+}
+input[type=range]::-ms-thumb {
+  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+  border: 1px solid #000000;
+  height: 24px;
+  width: 12px;
+  border-radius: 3px;
+  background: #ffffff;
+  cursor: pointer;
+}
+input[type=range]:focus::-ms-fill-lower {
+  background: #3071a9;
+}
+input[type=range]:focus::-ms-fill-upper {
+  background: #367ebd;
+}
+
+/* -------------------------------------------------------------------------------------*/

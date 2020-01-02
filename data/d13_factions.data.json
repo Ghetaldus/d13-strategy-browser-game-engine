@@ -1,0 +1,245 @@
+[
+    {
+      "id": 0,
+      "active": true,
+      "shield": 0,
+      "costs": {
+        "move": [
+          {
+            "resource": 0,
+            "value": 100
+          }
+        ],
+        "set": [
+          {
+            "resource": 0,
+            "value": 100
+          }
+        ],
+        "alliance": [
+          {
+            "resource": 0,
+            "value": 2000
+          }
+        ],
+        "scout": [
+          {
+            "resource": 0,
+            "value": 250,
+            "isFuel": false
+          },
+          {
+            "resource": 1,
+            "value": 10,
+            "isFuel": true
+          }
+        ],
+		"skirmish": [
+          {
+            "resource": 0,
+            "value": 250,
+            "isFuel": false
+          },
+          {
+            "resource": 1,
+            "value": 10,
+            "isFuel": true
+          }
+        ],
+		"raid": [
+          {
+            "resource": 0,
+            "value": 250,
+            "isFuel": false
+          },
+          {
+            "resource": 1,
+            "value": 10,
+            "isFuel": true
+          },
+          {
+          	"component": 8,
+          	"value": 1
+          }
+        ],
+		"sabotage": [
+          {
+            "resource": 0,
+            "value": 504,
+            "isFuel": false
+          },
+          {
+            "resource": 1,
+            "value": 104,
+            "isFuel": true
+          }
+        ],
+		"raze": [
+          {
+            "resource": 0,
+            "value": 505,
+            "isFuel": false
+          },
+          {
+            "resource": 1,
+            "value": 105,
+            "isFuel": true
+          },
+          {
+          	"component": 9,
+          	"value": 1
+          }
+        ],
+		"conquer": [
+          {
+            "resource": 0,
+            "value": 506,
+            "isFuel": false
+          },
+          {
+            "resource": 1,
+            "value": 106,
+            "isFuel": true
+          },
+          {
+          	"component": 9,
+          	"value": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": 1,
+      "active": false,
+      "shield": 0,
+      "costs": {
+        "move": [
+          {
+            "resource": 0,
+            "value": 100
+          }
+        ],
+        "set": [
+          {
+            "resource": 0,
+            "value": 100
+          }
+        ],
+        "alliance": [
+          {
+            "resource": 0,
+            "value": 2000
+          }
+        ],
+        "scout": [
+          {
+            "resource": 0,
+            "value": 501,
+            "isFuel": false
+          }
+        ],
+		"skirmish": [
+          {
+            "resource": 0,
+            "value": 502,
+            "isFuel": false
+          }
+        ],
+		"raid": [
+          {
+            "resource": 0,
+            "value": 250,
+            "isFuel": false
+          }
+        ],
+		"sabotage": [
+          {
+            "resource": 0,
+            "value": 504,
+            "isFuel": false
+          }
+        ],
+		"raze": [
+          {
+            "resource": 0,
+            "value": 505,
+            "isFuel": false
+          }
+        ],
+		"conquer": [
+          {
+            "resource": 0,
+            "value": 506,
+            "isFuel": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "active": false,
+      "shield": 0,
+      "costs": {
+        "move": [
+          {
+            "resource": 0,
+            "value": 100
+          }
+        ],
+        "set": [
+          {
+            "resource": 0,
+            "value": 100
+          }
+        ],
+        "alliance": [
+          {
+            "resource": 0,
+            "value": 2000
+          }
+        ],
+        "scout": [
+          {
+            "resource": 0,
+            "value": 501,
+            "isFuel": false
+          }
+        ],
+		"skirmish": [
+          {
+            "resource": 0,
+            "value": 502,
+            "isFuel": false
+          }
+        ],
+		"raid": [
+          {
+            "resource": 0,
+            "value": 250,
+            "isFuel": false
+          }
+        ],
+		"sabotage": [
+          {
+            "resource": 0,
+            "value": 504,
+            "isFuel": false
+          }
+        ],
+		"raze": [
+          {
+            "resource": 0,
+            "value": 505,
+            "isFuel": false
+          }
+        ],
+		"conquer": [
+          {
+            "resource": 0,
+            "value": 506,
+            "isFuel": false
+          }
+        ]
+      }
+    }
+]

@@ -1,0 +1,195 @@
+{
+  "users": {
+    "maxNodes": 1,
+    "maxModules": 13,
+    "maxSectors": 4,
+    "idle": 5,
+    "passwordResetIdle": 15,
+    "preferences": {
+      "allianceReports": 1,
+      "combatReports": 1,
+      "tradeReports": 1,
+      "extendedTooltips": 1
+    },
+    "duration": {
+      "research": 1,
+      "build": 1,
+      "craft": 1,
+      "train": 1,
+      "shield": 1,
+      "buff": 1,
+      "combat": 1,
+      "trade": 1
+    },
+    "efficiency": {
+      "research": 1,
+      "build": 1,
+      "craft": 1,
+      "train": 1,
+      "shield": 1,
+      "buff": 1,
+      "combat": 1,
+      "trade": 1,
+      "storage": 1,
+      "harvest": 1,
+      "set": 1,
+      "move": 1,
+      "alliance": 1,
+      "buy": 1
+    }
+  },
+  "options": {
+    "activationRequired": false,
+    "captchaRequired": false,
+    "enabledLogin": true,
+    "enabledRegister": true,
+    "factionFixation": true,
+    "moduleDemolish": true,
+    "moduleUpgrade": true,
+    "unitAttackOnly": false,
+    "defensiveModuleDamage": true,
+    "bonusLoot": true
+  },
+  "message": [
+  	"all",
+    "message",
+    "outbox",
+    "alliance",
+    "attack",
+    "defense",
+    "alliance"
+  ],
+  "queues": [
+  	"research",
+  	"build",
+  	"craft",
+  	"train",
+  	"shield",
+  	"buff",
+  	"combat",
+  	"trade",
+  	"market"
+  ],
+  "factors": {
+  	"distance": 5,
+    "critical": 2,
+    "experience": 10,
+    "trophies": 100
+  },
+  "types": {
+    "leader": {
+      "limit": 1,
+      "unique": true
+    },
+    "unit": {
+      "limit": 99999,
+      "unique": false
+    },
+    "component": {
+      "limit": 99999,
+      "unique": false
+    }
+  },
+  "classes": {
+    "spearman": {
+      "duelist": 0.5,
+      "archer": 0.5
+    },
+    "swordsman": {
+      "duelist": 0.5,
+      "archer": -0.5
+    },
+    "duelist": {
+      "archer": 0.5,
+      "cavalry": 0.5
+    },
+    "archer": {
+      "cavalry": 0.5,
+      "duelist": 0.5,
+      "spearman": 0.5
+    },
+    "cavalry": {
+      "spearman": 0.5
+    },
+    "static": {
+      "archer": -0.5
+    },
+    "wizard": {
+    	"swordsman": 0.5	
+    }
+  },
+  "triggers": [
+  	"messages",
+  	"expup",
+  	"levelup"
+  ],
+  "stats": [
+    "hp",
+    "damage",
+    "armor",
+    "speed",
+    "vision",
+    "capacity",
+    "critical",
+    "stealth",
+    "fuel",
+     "maxInput",
+    "ratio",
+    "duration"
+  ],
+  "colors": [
+  	"black",
+  	"white",
+  	"yellow",
+  	"orange",
+  	"red",
+  	"blue",
+  	"lightblue",
+  	"green",
+  	"gray",
+  	"purple"
+  ],
+  "userstats": {
+    "level": {
+		"active": true,
+    	"visible": true,
+    	"isExp": false,
+      	"name": "level",
+      	"value": "level",
+      	"icon": "level.png",
+      	"color": "yellow"
+    },
+    "experience": {
+    	"active": true,
+    	"visible": true,
+    	"isExp": true,
+      	"name": "experience",
+       	"value": "experience",
+      	"icon": "experience.png",
+      	"color": "yellow"
+    },
+    "trophies": {
+    	"active": true,
+    	"visible": false,
+    	"isExp": false,
+      	"name": "trophies",
+       	"value": "trophies",
+      	"icon": "trophies.png",
+      	"color": "yellow"
+    }
+  },
+  "spionage": {
+  	"threshold": 5,
+  	"technology": 10,
+  	"resources": 40,
+  	"modules": 60,
+  	"unit": 80
+  },
+  "sabotage": {
+  	"threshold": 5,
+  	"technology": 10,
+  	"resources": 40,
+  	"modules": 60,
+  	"unit": 80
+  }
+}

@@ -1,0 +1,25 @@
+[
+  [
+    {
+      "active": false,
+      "type": "component",
+      "id": 0,
+      "attributes": [
+        {
+          
+        }
+    	],
+	  "cost": [
+     	{
+         "resource": 0,
+         "factor": 1.5,
+         "value": 10
+     	}
+     	],
+      "targets": [
+    		0,1,2
+    	]
+    }
+    
+  ]
+]

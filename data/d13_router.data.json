@@ -1,0 +1,163 @@
+[
+	{
+  		"id": 0,
+  		"active": true,
+  		"page": "account",
+  		"class": "account",
+  		"login": true,
+  		"admin": false
+  	},
+  		{
+  		"id": 1,
+  		"active": true,
+  		"page": "activate",
+  		"class": "activate",
+  		"login": true,
+  		"admin": false
+  	},
+	{
+  		"id": 2,
+  		"active": false,
+  		"page": "admin",
+  		"class": "admin",
+  		"login": true,
+  		"admin": true
+  	},
+	{
+  		"id": 3,
+  		"active": true,
+  		"page": "alliance",
+  		"class": "alliance",
+  		"login": true,
+  		"admin": false
+  	},
+	{
+  		"id": 4,
+  		"active": true,
+  		"page": "combat",
+  		"class": "combat",
+  		"login": true,
+  		"admin": false
+  	},
+	{
+  		"id": 5,
+  		"active": true,
+  		"page": "contact",
+  		"class": "contact",
+  		"login": true,
+  		"admin": false
+  	},
+	{
+  		"id": 6,
+  		"active": true,
+  		"page": "credits",
+  		"class": "credits",
+  		"login": false,
+  		"admin": false
+  	},
+	{
+  		"id": 7,
+  		"active": false,
+  		"page": "grid",
+  		"class": "grid",
+  		"login": true,
+  		"admin": false
+  	},
+	{
+  		"id": 8,
+  		"active": true,
+  		"page": "index",
+  		"class": "index",
+  		"login": false,
+  		"admin": false
+  	},
+	{
+  		"id": 9,
+  		"active": true,
+  		"page": "login",
+  		"class": "login",
+  		"login": false,
+  		"admin": false
+  	},
+	{
+  		"id": 10,
+  		"active": true,
+  		"page": "logout",
+  		"class": "logout",
+  		"login": true,
+  		"admin": false
+  	},
+	{
+  		"id": 11,
+  		"active": true,
+  		"page": "logout",
+  		"class": "logout",
+  		"login": true,
+  		"admin": false
+  	},
+	{
+  		"id": 12,
+  		"active": true,
+  		"page": "message",
+  		"class": "message",
+  		"login": true,
+  		"admin": false
+  	},
+	{
+  		"id": 13,
+  		"active": true,
+  		"page": "module",
+  		"class": "module",
+  		"login": true,
+  		"admin": false
+  	},
+	{
+  		"id": 14,
+  		"active": true,
+  		"page": "node",
+  		"class": "node",
+  		"login": true,
+  		"admin": false
+  	},
+	{
+  		"id": 15,
+  		"active": true,
+  		"page": "ranking",
+  		"class": "ranking",
+  		"login": true,
+  		"admin": false
+  	},
+	{
+  		"id": 16,
+  		"active": true,
+  		"page": "register",
+  		"class": "register",
+  		"login": false,
+  		"admin": false
+  	},
+	{
+  		"id": 17,
+  		"active": true,
+  		"page": "reset",
+  		"class": "reset",
+  		"login": false,
+  		"admin": false
+  	},
+	{
+  		"id": 18,
+  		"active": true,
+  		"page": "status",
+  		"class": "status",
+  		"login": true,
+  		"admin": false
+  	},
+	{
+  		"id": 19,
+  		"active": true,
+  		"page": "terms",
+  		"class": "terms",
+  		"login": false,
+  		"admin": false
+  	}
+ 	
+]

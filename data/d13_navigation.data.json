@@ -1,0 +1,273 @@
+[
+    {
+      "active": true,
+      "login": false,
+      "node": false,
+      "admin": false,
+      "class": "left",
+      "name": "home",
+      "link": "index",
+      "trigger": "",
+      "images": [
+      	 {
+          "level": 0,
+          "image": "home.png",
+          "class": ""
+        },
+        {
+          "level": 1,
+          "image": "home.png",
+          "class": ""
+        }
+      ]
+    },
+    {
+      "active": true,
+      "login": false,
+      "node": false,
+      "admin": false,
+      "class": "left",
+      "name": "login",
+      "link": "login&action=login",
+      "trigger": "",
+      "images": [
+      	 {
+          "level": 0,
+          "image": "exitRight.png",
+          "class": ""
+        },
+        {
+          "level": 1,
+          "image": "exitRight.png",
+          "class": ""
+        }
+      ]
+    },
+    {
+      "active": true,
+      "login": false,
+      "node": false,
+      "admin": false,
+      "class": "left",
+      "name": "register",
+      "link": "register",
+      "trigger": "",
+      "images": [
+      	 {
+          "level": 0,
+          "image": "key.png",
+          "class": ""
+        },
+        {
+          "level": 1,
+          "image": "key.png",
+          "class": ""
+        }
+      ]
+    },
+    {
+      "active": true,
+      "login": false,
+      "node": false,
+      "admin": false,
+      "class": "right",
+      "name": "terms",
+      "link": "terms",
+      "trigger": "",
+      "images": [
+      	 {
+          "level": 0,
+          "image": "buttonX.png",
+          "class": ""
+        },
+        {
+          "level": 1,
+          "image": "buttonX.png",
+          "class": ""
+        }
+      ]
+    },
+    {
+      "active": true,
+      "login": false,
+      "node": false,
+      "admin": false,
+      "class": "right",
+      "name": "credits",
+      "link": "credits",
+      "trigger": "",
+      "images": [
+      	 {
+          "level": 0,
+          "image": "buttonY.png",
+          "class": ""
+        },
+        {
+          "level": 1,
+          "image": "buttonY.png",
+          "class": ""
+        }
+      ]
+    },
+    {
+      "active": true,
+      "login": true,
+      "node": true,
+      "admin": false,
+      "class": "left",
+      "name": "nodes",
+      "link": "node&action=list",
+      "trigger": "",
+      "images": [
+      	 {
+          "level": 0,
+          "image": "home.png",
+          "class": ""
+        },
+        {
+          "level": 1,
+          "image": "home.png",
+          "class": ""
+        }
+      ]
+    },
+    {
+      "active": true,
+      "login": true,
+      "node": false,
+      "admin": false,
+      "class": "left",
+      "name": "messages",
+      "link": "message&action=list",
+      "trigger": "messages",
+      "images": [
+      	 {
+          "level": 0,
+          "image": "message_off.png",
+          "class": ""
+        },
+        {
+          "level": 1,
+          "image": "message_on.png",
+          "class": "animated wobble"
+        }
+      ]
+    },
+    {
+      "active": true,
+      "login": true,
+      "node": false,
+      "admin": false,
+      "class": "left",
+      "name": "status",
+      "link": "status",
+      "trigger": "",
+      "images": [
+      	 {
+          "level": 0,
+          "image": "status.png",
+          "class": ""
+        }
+      ]
+    },
+	{
+      "active": true,
+      "login": true,
+      "node": false,
+      "admin": false,
+      "class": "left",
+      "name": "ranking",
+      "link": "ranking",
+      "trigger": "",
+      "images": [
+      	 {
+          "level": 0,
+          "image": "trophy.png",
+          "class": ""
+        }
+      ]
+    },
+    {
+      "active": false,
+      "login": true,
+      "node": false,
+      "admin": false,
+      "class": "left",
+      "name": "map",
+      "link": "grid",
+      "trigger": "",
+      "images": [
+      	 {
+          "level": 0,
+          "image": "map.png",
+          "class": ""
+        }
+      ]
+    },
+    {
+      "active": true,
+      "login": true,
+      "node": false,
+      "admin": false,
+      "class": "left",
+      "name": "account",
+      "link": "account",
+      "trigger": "",
+      "images": [
+      	 {
+          "level": 0,
+          "image": "wrench.png",
+          "class": ""
+        },
+        {
+          "level": 1,
+          "image": "wrench.png",
+          "class": ""
+        }
+      ]
+    },
+    {
+      "active": true,
+      "login": true,
+      "node": false,
+      "admin": true,
+      "class": "right",
+      "name": "admin",
+      "link": "admin",
+      "trigger": "",
+      "images": [
+      	 {
+          "level": 0,
+          "image": "admin.png",
+          "class": ""
+        },
+        {
+          "level": 1,
+          "image": "admin.png",
+          "class": ""
+        }
+      ]
+    },
+    {
+      "active": true,
+      "login": true,
+      "node": false,
+      "admin": false,
+      "class": "right",
+      "name": "logout",
+      "link": "logout",
+      "trigger": "",
+      "images": [
+      	 {
+          "level": 0,
+          "image": "door.png",
+          "class": ""
+        },
+        {
+          "level": 1,
+          "image": "door.png",
+          "class": ""
+        }
+      ]
+    }
+]

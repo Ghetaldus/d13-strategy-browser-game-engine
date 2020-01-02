@@ -1,0 +1,80 @@
+[
+  	{
+  		"id": 0,
+  		"active": true,
+  		"level": 0,
+  		"image": "avatar0.png"
+  	},
+  	{
+  		"id": 1,
+  		"active": true,
+  		"level": 1,
+  		"image": "avatar1.png"
+  	},
+  	{
+  		"id": 2,
+  		"active": true,
+  		"level": 2,
+  		"image": "avatar2.png"
+  	},
+  	{
+  		"id": 3,
+  		"active": true,
+  		"level": 3,
+  		"image": "avatar3.png"
+  	},
+  	{
+  		"id": 4,
+  		"active": true,
+  		"level": 4,
+  		"image": "avatar4.png"
+  	},
+  	{
+  		"id": 5,
+  		"active": true,
+  		"level": 5,
+  		"image": "avatar5.png"
+  	},
+  	{
+  		"id": 6,
+  		"active": true,
+  		"level": 6,
+  		"image": "avatar6.png"
+  	},
+  	{
+  		"id": 7,
+  		"active": true,
+  		"level": 7,
+  		"image": "avatar7.png"
+  	},
+  	{
+  		"id": 8,
+  		"active": true,
+  		"level": 8,
+  		"image": "avatar8.png"
+  	},
+  	{
+  		"id": 9,
+  		"active": true,
+  		"level": 9,
+  		"image": "avatar9.png"
+  	},
+ 	{
+  		"id": 10,
+  		"active": true,
+  		"level": 10,
+  		"image": "avatar10.png"
+  	},
+  	{
+  		"id": 11,
+  		"active": true,
+  		"level": 11,
+  		"image": "avatar11.png"
+  	},
+  	{
+  		"id": 12,
+  		"active": true,
+  		"level": 12,
+  		"image": "avatar12.png"
+  	} 
+]

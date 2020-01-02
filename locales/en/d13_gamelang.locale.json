@@ -1,0 +1,1130 @@
+{
+  "resources": [
+    {
+      "name": "gold",
+      "description": "Gold is mined from gold mines."
+    },
+    {
+      "name": "lumber",
+      "description": "Lumber is harvested from trees."
+    },
+    {
+      "name": "iron",
+      "description": "Iron is mined from iron mines."
+    },
+    {
+      "name": "workers",
+      "description": "Workers drive the economy."
+    },
+    {
+      "name": "storage space",
+      "description": "Storage for components."
+    },
+    {
+      "name": "food",
+      "description": "Units require food."
+    }
+  ],
+  "combatTypes": [
+    {
+      "name": "Raid",
+      "description": "Attack to loot resources."
+    },
+    {
+      "name": "Conquer",
+      "description": "Attack to take over town if victorious."
+    },
+    {
+      "name": "Scout",
+      "description": "Scout to get information about your opponent."
+    },
+    {
+      "name": "Raze",
+      "description": "Attack to destroy town if victorious."
+    },
+    {
+      "name": "Skirmish",
+      "description": ""
+    },
+    {
+      "name": "Sabotage",
+      "description": ""
+    }
+  ], 
+  "shields": [
+    {
+      "name": "newbie protection",
+      "description": "Your town is protected from all attacks for some time."
+    }
+  ],
+  "buffs": [
+    {
+      "name": "production buff",
+      "description": "increases production speed of this town for a period of time."
+    }
+  ],  
+  "factions": [
+    {
+      "name": "Empire",
+      "description": "The balanced power."
+    },
+    {
+      "name": "Guild",
+      "description": "The economical power."
+    },
+    {
+      "name": "Order",
+      "description": "The military power."
+    }
+  ],
+  "leagues": [
+  	{
+  		"name": "Unranked",
+  		"description": ""
+  	},
+  	{
+  		"name": "Bronze I",
+  		"description": ""
+  	},
+  	{
+  		"name": "Bronze II",
+  		"description": ""
+  	},
+  	{
+  		"name": "Bronze III",
+  		"description": ""
+  	},
+  	{
+  		"name": "Silver I",
+  		"description": ""
+  	},
+  	{
+  		"name": "Silver II",
+  		"description": ""
+  	},
+  	{
+  		"name": "Silver III",
+  		"description": ""
+  	},
+  	{
+  		"name": "Gold I",
+  		"description": ""
+  	},
+  	{
+  		"name": "Gold II",
+  		"description": ""
+  	},
+  	{
+  		"name": "Gold III",
+  		"description": ""
+  	},
+  	{
+  		"name": "Champion I",
+  		"description": ""
+  	},
+  	{
+  		"name": "Champion II",
+  		"description": ""
+  	},
+  	{
+  		"name": "Champion III",
+  		"description": ""
+  	},
+  	{
+  		"name": "Hero I",
+  		"description": ""
+  	},
+  	{
+  		"name": "Hero II",
+  		"description": ""
+  	},
+  	{
+  		"name": "Hero III",
+  		"description": ""
+  	},
+  	{
+  		"name": "Master I",
+  		"description": ""
+  	},
+  	{
+  		"name": "Master II",
+  		"description": ""
+  	},
+  	{
+  		"name": "Master III",
+  		"description": ""
+  	},
+  	{
+  		"name": "Legendary",
+  		"description": ""
+  	}
+  ],
+  "technologies": [
+    {
+      "0": {
+        "name": "Metallurgy",
+        "description": "Allows the use of iron in armor and weapons."
+      },
+      "1": {
+        "name": "Military training",
+        "description": "Allows the training of basic military units."
+      },
+      "2": {
+        "name": "Advanced military training",
+        "description": "Allows the training of advanced military units."
+      },
+      "3": {
+        "name": "Horse breeding",
+        "description": "Allows the training of mounted units."
+      },
+      "4": {
+        "name": "Currency",
+        "description": "Allows the exchange of resources."
+      },
+      "5": {
+        "name": "Advanced Gold Mining",
+        "description": "Allows accelerated mining of gold in mines."
+      },
+      "6": {
+        "name": "Advanced Wood Cutting",
+        "description": "Allows accelerated wood cutting for lumber jacks."
+      },
+      "7": {
+        "name": "Advanced Iron Mining",
+        "description": "Allows accelerated mining of iron in mines."
+      },
+      
+      "100": {
+        "name": "Spearman Training",
+        "description": "Increases fighting power of your Spearman units."
+      },
+      "101": {
+        "name": "Pikeman Training",
+        "description": "Increases fighting power of your Pikeman units."
+      },
+      "102": {
+        "name": "Fencer Training",
+        "description": "Increases fighting power of your Fencer units."
+      },
+      "103": {
+        "name": "Swordsman Training",
+        "description": "Increases fighting power of your Swordsman units."
+      },
+      "104": {
+        "name": "Knight Training",
+        "description": "Increases fighting power of your Knight units."
+      },
+      "105": {
+        "name": "Bowman Training",
+        "description": "Increases fighting power of your Bowman units."
+      },
+      "106": {
+        "name": "Longbowman Training",
+        "description": "Increases fighting power of your Longbowman units."
+      },
+      "107": {
+        "name": "Mounted Spearman Training",
+        "description": "Increases fighting power of your Mounted Spearman units."
+      },
+      "108": {
+        "name": "Mounted Swordsman Training",
+        "description": "Increases fighting power of your Mounted Swordsman units."
+      },
+      "109": {
+        "name": "Mounted Knight Training",
+        "description": "Increases fighting power of your Mounted Knight units."
+      },
+      "110": {
+        "name": "Spy Training",
+        "description": "Increases fighting power of your Spy units."
+      },
+      "111": {
+        "name": "Militia Training",
+        "description": "Increases fighting power of your Militia units."
+      },
+      "112": {
+        "name": "Thug Training",
+        "description": "Increases fighting power of your Thug units."
+      },
+      "113": {
+        "name": "Bandit Training",
+        "description": "Increases fighting power of your Bandit units."
+      },
+      "114": {
+        "name": "Militia Bowman Training",
+        "description": "Increases fighting power of your Militia Bowman units."
+      },
+      "115": {
+        "name": "Ranger Training",
+        "description": "Increases fighting power of your Ranger units."
+      },
+      "116": {
+        "name": "Thief Training",
+        "description": "Increases fighting power of your Thief units."
+      },
+      
+           "117": {
+        "name": "Warrior Hero Training",
+        "description": "Increases fighting power of your Warrior hero."
+      },
+      "118": {
+        "name": "Wizard Hero Training",
+        "description": "Increases fighting power of your Wizard hero."
+      },
+      "119": {
+        "name": "Ranger hero Training",
+        "description": "Increases fighting power of your Ranger hero."
+      }
+    },
+    {
+      "0": {
+        "name": "Metallurgy",
+        "description": "Allows the use of iron in armor and weapons."
+      },
+      "1": {
+        "name": "Military training",
+        "description": "Allows the training of basic military units."
+      },
+      "2": {
+        "name": "Advanced military training",
+        "description": "Allows the training of advanced military units."
+      },
+      "3": {
+        "name": "Horse breeding",
+        "description": "Allows the training of mounted units."
+      },
+      "4": {
+        "name": "Currency",
+        "description": "Allows the exchange of resources."
+      },
+      "100": {
+        "name": "Spearman Training",
+        "description": "Increases fighting power of your Spearman units."
+      },
+      "101": {
+        "name": "Pikeman Training",
+        "description": "Increases fighting power of your Pikeman units."
+      },
+      "102": {
+        "name": "Fencer Training",
+        "description": "Increases fighting power of your Fencer units."
+      },
+      "103": {
+        "name": "Swordsman Training",
+        "description": "Increases fighting power of your Swordsman units."
+      },
+      "104": {
+        "name": "Knight Training",
+        "description": "Increases fighting power of your Knight units."
+      },
+      "105": {
+        "name": "Bowman Training",
+        "description": "Increases fighting power of your Bowman units."
+      },
+      "106": {
+        "name": "Longbowman Training",
+        "description": "Increases fighting power of your Longbowman units."
+      },
+      "107": {
+        "name": "Mounted Spearman Training",
+        "description": "Increases fighting power of your Mounted Spearman units."
+      },
+      "108": {
+        "name": "Mounted Swordsman Training",
+        "description": "Increases fighting power of your Mounted Swordsman units."
+      },
+      "109": {
+        "name": "Mounted Knight Training",
+        "description": "Increases fighting power of your Mounted Knight units."
+      },
+      "110": {
+        "name": "Spy Training",
+        "description": "Increases fighting power of your Spy units."
+      },
+      "111": {
+        "name": "Militia Training",
+        "description": "Increases fighting power of your Militia units."
+      },
+      "112": {
+        "name": "Thug Training",
+        "description": "Increases fighting power of your Thug units."
+      },
+      "113": {
+        "name": "Bandit Training",
+        "description": "Increases fighting power of your Bandit units."
+      },
+      "114": {
+        "name": "Militia Bowman Training",
+        "description": "Increases fighting power of your Militia Bowman units."
+      },
+      "115": {
+        "name": "Ranger Training",
+        "description": "Increases fighting power of your Ranger units."
+      },
+      "116": {
+        "name": "Thief Training",
+        "description": "Increases fighting power of your Thief units."
+      },
+      
+      "117": {
+        "name": "Warrior Hero Training",
+        "description": "Increases fighting power of your Warrior hero."
+      },
+      "118": {
+        "name": "Wizard Hero Training",
+        "description": "Increases fighting power of your Wizard hero."
+      },
+      "119": {
+        "name": "Ranger hero Training",
+        "description": "Increases fighting power of your Ranger hero."
+      }
+      
+      
+    },
+    {
+      "0": {
+        "name": "Metallurgy",
+        "description": "Allows the use of iron in armor and weapons."
+      },
+      "1": {
+        "name": "Military training",
+        "description": "Allows the training of basic military units."
+      },
+      "2": {
+        "name": "Advanced military training",
+        "description": "Allows the training of advanced military units."
+      },
+      "3": {
+        "name": "Horse breeding",
+        "description": "Allows the training of mounted units."
+      },
+      "4": {
+        "name": "Currency",
+        "description": "Allows the exchange of resources."
+      },
+      "100": {
+        "name": "Spearman Training",
+        "description": "Increases fighting power of your Spearman units."
+      },
+      "101": {
+        "name": "Pikeman Training",
+        "description": "Increases fighting power of your Pikeman units."
+      },
+      "102": {
+        "name": "Fencer Training",
+        "description": "Increases fighting power of your Fencer units."
+      },
+      "103": {
+        "name": "Swordsman Training",
+        "description": "Increases fighting power of your Swordsman units."
+      },
+      "104": {
+        "name": "Knight Training",
+        "description": "Increases fighting power of your Knight units."
+      },
+      "105": {
+        "name": "Bowman Training",
+        "description": "Increases fighting power of your Bowman units."
+      },
+      "106": {
+        "name": "Longbowman Training",
+        "description": "Increases fighting power of your Longbowman units."
+      },
+      "107": {
+        "name": "Mounted Spearman Training",
+        "description": "Increases fighting power of your Mounted Spearman units."
+      },
+      "108": {
+        "name": "Mounted Swordsman Training",
+        "description": "Increases fighting power of your Mounted Swordsman units."
+      },
+      "109": {
+        "name": "Mounted Knight Training",
+        "description": "Increases fighting power of your Mounted Knight units."
+      },
+      "110": {
+        "name": "Spy Training",
+        "description": "Increases fighting power of your Spy units."
+      },
+      "111": {
+        "name": "Militia Training",
+        "description": "Increases fighting power of your Militia units."
+      },
+      "112": {
+        "name": "Thug Training",
+        "description": "Increases fighting power of your Thug units."
+      },
+      "113": {
+        "name": "Bandit Training",
+        "description": "Increases fighting power of your Bandit units."
+      },
+      "114": {
+        "name": "Militia Bowman Training",
+        "description": "Increases fighting power of your Militia Bowman units."
+      },
+      "115": {
+        "name": "Ranger Training",
+        "description": "Increases fighting power of your Ranger units."
+      },
+      "116": {
+        "name": "Thief Training",
+        "description": "Increases fighting power of your Thief units."
+      },
+      
+           "117": {
+        "name": "Warrior Hero Training",
+        "description": "Increases fighting power of your Warrior hero."
+      },
+      "118": {
+        "name": "Wizard Hero Training",
+        "description": "Increases fighting power of your Wizard hero."
+      },
+      "119": {
+        "name": "Ranger hero Training",
+        "description": "Increases fighting power of your Ranger hero."
+      }
+    }
+  ],
+  "modules": [
+    [
+      {
+        "name": "Gold mine",
+        "description": "Gold mines produce gold."
+      },
+      {
+        "name": "Lumber mill",
+        "description": "Lumber mills harvest lumber."
+      },
+      {
+        "name": "Iron mine",
+        "description": "Iron mines produce iron."
+      },
+      {
+        "name": "Armor shop",
+        "description": "Armor is forged here."
+      },
+      {
+        "name": "Weapon shop",
+        "description": "Weapons are forged here."
+      },
+      {
+        "name": "Barracks",
+        "description": "Infantry units are trained here."
+      },
+      {
+        "name": "Stables",
+        "description": "Mounted units are trained here."
+      },
+      {
+        "name": "Mercenary hut",
+        "description": "Hire units for gold."
+      },
+      {
+        "name": "Laboratory",
+        "description": "New technologies are researched here."
+      },
+      {
+        "name": "Blackmarket",
+        "description": "Buy components, resources and other useful items."
+      },
+      {
+        "name": "Gold Storage",
+        "description": "Stores extra gold."
+      },
+      {
+        "name": "Lumber Storage",
+        "description": "Stores extra lumber."
+      },
+      {
+        "name": "Iron Storage",
+        "description": "Stores extra iron."
+      },
+      {
+        "name": "Guild House",
+        "description": "Create and edit alliances."
+      },
+      {
+        "name": "Townhall",
+        "description": "The center of any town."
+      },
+      {
+        "name": "Archer Tower",
+        "description": "Provides defense to your town."
+      },
+      {
+        "name": "Farm",
+        "description": "Farms provide food to field larger armies."
+      },
+      {
+        "name": "War Academy",
+        "description": "Researches various army upgrades."
+      },
+      {
+        "name": "Wargate",
+        "description": "Required to attack other players with your troops."
+      },
+      {
+        "name": "Hall of Heroes",
+        "description": "Hire powerful and unique heroes of the land here."
+      }
+    ],
+    [
+      {
+        "name": "Gold mine",
+        "description": "Gold mines produce gold."
+      },
+      {
+        "name": "Lumber mill",
+        "description": "Lumber mills harvest lumber."
+      },
+      {
+        "name": "Iron mine",
+        "description": "Iron mines produce iron."
+      },
+      {
+        "name": "Armor shop",
+        "description": "Armor is forged here."
+      },
+      {
+        "name": "Weapon shop",
+        "description": "Weapons are forged here."
+      },
+      {
+        "name": "Barracks",
+        "description": "Infantry units are trained here."
+      },
+      {
+        "name": "Stables",
+        "description": "Mounted units are trained here."
+      },
+      {
+        "name": "Mercenary hut",
+        "description": "Hire units for gold."
+      },
+      {
+        "name": "Laboratory",
+        "description": "New technologies are researched here."
+      },
+      {
+        "name": "Blackmarket",
+        "description": "Buy/Sell components and resources."
+      },
+      {
+        "name": "Gold Storage",
+        "description": "Stores extra gold."
+      },
+      {
+        "name": "Lumber Storage",
+        "description": "Stores extra lumber."
+      },
+      {
+        "name": "Iron Storage",
+        "description": "Stores extra iron."
+      },
+      {
+        "name": "Guild House",
+        "description": "Create and edit alliances."
+      },
+      {
+        "name": "Townhall",
+        "description": "The center of any town."
+      },
+      {
+        "name": "Archer Tower",
+        "description": "Provides defense to your town."
+      },
+      {
+        "name": "Farm",
+        "description": "Farms provide food to field larger armies."
+      },
+      {
+        "name": "War Academy",
+        "description": "Researches various army upgrades."
+      },
+      {
+        "name": "Wargate",
+        "description": "Required to attack other players with your troops."
+      },
+      {
+        "name": "Hall of Heroes",
+        "description": "Hire powerful and unique heroes of the land here."
+      }
+    ],
+    [
+      {
+        "name": "Gold mine",
+        "description": "Gold mines produce gold."
+      },
+      {
+        "name": "Lumber mill",
+        "description": "Lumber mills harvest lumber."
+      },
+      {
+        "name": "Iron mine",
+        "description": "Iron mines produce iron."
+      },
+      {
+        "name": "Armor shop",
+        "description": "Armor is forged here."
+      },
+      {
+        "name": "Weapon shop",
+        "description": "Weapons are forged here."
+      },
+      {
+        "name": "Barracks",
+        "description": "Infantry units are trained here."
+      },
+      {
+        "name": "Stables",
+        "description": "Mounted units are trained here."
+      },
+      {
+        "name": "Mercenary hut",
+        "description": "Hire units for gold."
+      },
+      {
+        "name": "Laboratory",
+        "description": "New technologies are researched here."
+      },
+      {
+        "name": "Blackmarket",
+        "description": "Buy/Sell components and resources."
+      },
+      {
+        "name": "Gold Storage",
+        "description": "Stores extra gold."
+      },
+      {
+        "name": "Lumber Storage",
+        "description": "Stores extra lumber."
+      },
+      {
+        "name": "Iron Storage",
+        "description": "Stores extra iron."
+      },
+      {
+        "name": "Guild House",
+        "description": "Create and edit alliances."
+      },
+      {
+        "name": "Townhall",
+        "description": "The center of any town."
+      },
+      {
+        "name": "Archer Tower",
+        "description": "Provides defense to your town."
+      },
+      {
+        "name": "Farm",
+        "description": "Farms provide food to field larger armies."
+      },
+      {
+        "name": "War Academy",
+        "description": "Researches various army upgrades."
+      },
+      {
+        "name": "Wargate",
+        "description": "Required to attack other players with your troops."
+      },
+      {
+        "name": "Hall of Heroes",
+        "description": "Hire powerful and unique heroes of the land here."
+      }
+    ]
+  ],
+  "components": [
+    [
+      {
+        "name": "Cloth armor",
+        "description": "Medium defense armor."
+      },
+      {
+        "name": "Plate armor",
+        "description": "High defense armor."
+      },
+      {
+        "name": "Shield",
+        "description": "Provides aditional defense."
+      },
+      {
+        "name": "Short sword",
+        "description": "Medium damage melee weapon."
+      },
+      {
+        "name": "Long sword",
+        "description": "High damage melee weapon."
+      },
+      {
+        "name": "Bow",
+        "description": "Required by archers."
+      },
+      {
+        "name": "Longbow",
+        "description": "Required by longbow-men."
+      },
+      {
+        "name": "Spear",
+        "description": "High damage melee weapon."
+      },
+      {
+        "name": "Red Flag",
+        "description": "Required to use RAID attack on an enemy (test-item)."
+      },
+      {
+        "name": "Black Flag",
+        "description": "Required to use CONQUER or RAZE attack on an enemy (test-item)."
+      }
+    ],
+    [
+      {
+        "name": "Cloth armor",
+        "description": "Medium defense armor."
+      },
+      {
+        "name": "Plate armor",
+        "description": "High defense armor."
+      },
+      {
+        "name": "Shield",
+        "description": "Provides aditional defense."
+      },
+      {
+        "name": "Short sword",
+        "description": "Medium damage melee weapon."
+      },
+      {
+        "name": "Long sword",
+        "description": "High damage melee weapon."
+      },
+      {
+        "name": "Bow",
+        "description": "Required by archers."
+      },
+      {
+        "name": "Longbow",
+        "description": "Required by longbow-men."
+      },
+      {
+        "name": "Spear",
+        "description": "High damage melee weapon."
+      }
+    ],
+    [
+      {
+        "name": "Cloth armor",
+        "description": "Medium defense armor."
+      },
+      {
+        "name": "Plate armor",
+        "description": "High defense armor."
+      },
+      {
+        "name": "Shield",
+        "description": "Provides aditional defense."
+      },
+      {
+        "name": "Short sword",
+        "description": "Medium damage melee weapon."
+      },
+      {
+        "name": "Long sword",
+        "description": "High damage melee weapon."
+      },
+      {
+        "name": "Bow",
+        "description": "Required by archers."
+      },
+      {
+        "name": "Longbow",
+        "description": "Required by longbow-men."
+      },
+      {
+        "name": "Spear",
+        "description": "High damage melee weapon."
+      }
+    ]
+  ],
+  "classes": {
+    "spearman": "lancer",
+    "swordsman": "warrior",
+    "duelist": "duelist",
+    "archer": "archer",
+    "cavalry": "cavalry",
+    "static": "static",
+    "wizard": "wizard"
+  },
+  "units": [
+    [
+      {
+        "name": "Spearman",
+        "description": "A peasant behind armor, armed with a spear."
+      },
+      {
+        "name": "Pikeman",
+        "description": "Spearmen trained before being deployed, with better armor and a self improved spear."
+      },
+      {
+        "name": "Fencer",
+        "description": "Dual sword wielding warrior who sacrifices armor for agility."
+      },
+      {
+        "name": "Swordsman",
+        "description": "Trained in the use of the sword and shield, the Swordsman is the backbone of the army."
+      },
+      {
+        "name": "Knight",
+        "description": "Elite armored warrior trained in the use of the sword and shield."
+      },
+      {
+        "name": "Bowman",
+        "description": "Bowmen provide great ranged damage but lack the protection of plate armor."
+      },
+      {
+        "name": "Longbowman",
+        "description": "Longer bows make for greater damage while plate armor provides greater protection."
+      },
+      {
+        "name": "Mounted spearman",
+        "description": "A spearman on a horse."
+      },
+      {
+        "name": "Mounted swordsman",
+        "description": "A swordsman on a horse."
+      },
+      {
+        "name": "Mounted knight",
+        "description": "A knight on a horse."
+      },
+      {
+        "name": "Spy",
+        "description": "Trained in the arts of sneaking and deception spies are fast and deadly."
+      },
+      {
+        "name": "Militia",
+        "description": "When there are witches to be burned or rampant bears to be guided back to the forest."
+      },
+      {
+        "name": "Thug",
+        "description": "Reformed peasant. Because crime does pay. Sometimes. Not really."
+      },
+      {
+        "name": "Bandit",
+        "description": "Survive the road long enough and you become a bandit."
+      },
+      {
+        "name": "Militia bowman",
+        "description": "A peasant with a bow. Bring the apples."
+      },
+      {
+        "name": "Ranger",
+        "description": "When you live in the woods and you're not a bandit you're a ranger."
+      },
+      {
+        "name": "Thief",
+        "description": "They'll go there if there's something to pinch."
+      },
+      {
+        "name": "Tower",
+        "description": "Standing tall and proud."
+      },
+      {
+        "name": "Wall",
+        "description": "Between a rock and a hard place."
+      },
+      {
+        "name": "Warrior hero",
+        "description": "Limited to one unit at a time."
+      },
+      {
+        "name": "Wizard hero",
+        "description": "Limited to one unit at a time."
+      },
+      {
+        "name": "Ranger hero",
+        "description": "Limited to one unit at a time."
+      }
+      
+    ],
+    [
+      {
+        "name": "Spearman",
+        "description": "A peasant behind armor, armed with a spear."
+      },
+      {
+        "name": "Pikeman",
+        "description": "Spearmen trained before being deployed, with better armor and a self improved spear."
+      },
+      {
+        "name": "Fencer",
+        "description": "Dual sword wielding warrior who sacrifices armor for agility."
+      },
+      {
+        "name": "Swordsman",
+        "description": "Trained in the use of the sword and shield, the Swordsman is the backbone of the army."
+      },
+      {
+        "name": "Knight",
+        "description": "Elite armored warrior trained in the use of the sword and shield."
+      },
+      {
+        "name": "Bowman",
+        "description": "Bowmen provide great ranged damage but lack the protection of plate armor."
+      },
+      {
+        "name": "Longbowman",
+        "description": "Longer bows make for greater damage while plate armor provides greater protection."
+      },
+      {
+        "name": "Mounted spearman",
+        "description": "A spearman on a horse."
+      },
+      {
+        "name": "Mounted swordsman",
+        "description": "A swordsman on a horse."
+      },
+      {
+        "name": "Mounted knight",
+        "description": "A knight on a horse."
+      },
+      {
+        "name": "Spy",
+        "description": "Trained in the arts of sneaking and deception spies are fast and deadly."
+      },
+      {
+        "name": "Militia",
+        "description": "When there are witches to be burned or rampant bears to be guided back to the forest."
+      },
+      {
+        "name": "Thug",
+        "description": "Reformed peasant. Because crime does pay. Sometimes. Not really."
+      },
+      {
+        "name": "Bandit",
+        "description": "Survive the road long enough and you become a bandit."
+      },
+      {
+        "name": "Militia bowman",
+        "description": "A peasant with a bow. Bring the apples."
+      },
+      {
+        "name": "Ranger",
+        "description": "When you live in the woods and you're not a bandit you're a ranger."
+      },
+      {
+        "name": "Thief",
+        "description": "They'll go there if there's something to pinch."
+      },
+      {
+        "name": "Tower",
+        "description": "Standing tall and proud."
+      },
+      {
+        "name": "Wall",
+        "description": "Between a rock and a hard place."
+      },
+      {
+        "name": "Warrior hero",
+        "description": "Limited to one unit at a time."
+      },
+      {
+        "name": "Wizard hero",
+        "description": "Limited to one unit at a time."
+      },
+      {
+        "name": "Ranger hero",
+        "description": "Limited to one unit at a time."
+      }
+    ],
+    [
+      {
+        "name": "Spearman",
+        "description": "A peasant behind armor, armed with a spear."
+      },
+      {
+        "name": "Pikeman",
+        "description": "Spearmen trained before being deployed, with better armor and a self improved spear."
+      },
+      {
+        "name": "Fencer",
+        "description": "Dual sword wielding warrior who sacrifices armor for agility."
+      },
+      {
+        "name": "Swordsman",
+        "description": "Trained in the use of the sword and shield, the Swordsman is the backbone of the army."
+      },
+      {
+        "name": "Knight",
+        "description": "Elite armored warrior trained in the use of the sword and shield."
+      },
+      {
+        "name": "Bowman",
+        "description": "Bowmen provide great ranged damage but lack the protection of plate armor."
+      },
+      {
+        "name": "Longbowman",
+        "description": "Longer bows make for greater damage while plate armor provides greater protection."
+      },
+      {
+        "name": "Mounted spearman",
+        "description": "A spearman on a horse."
+      },
+      {
+        "name": "Mounted swordsman",
+        "description": "A swordsman on a horse."
+      },
+      {
+        "name": "Mounted knight",
+        "description": "A knight on a horse."
+      },
+      {
+        "name": "Spy",
+        "description": "Trained in the arts of sneaking and deception spies are fast and deadly."
+      },
+      {
+        "name": "Militia",
+        "description": "When there are witches to be burned or rampant bears to be guided back to the forest."
+      },
+      {
+        "name": "Thug",
+        "description": "Reformed peasant. Because crime does pay. Sometimes. Not really."
+      },
+      {
+        "name": "Bandit",
+        "description": "Survive the road long enough and you become a bandit."
+      },
+      {
+        "name": "Militia bowman",
+        "description": "A peasant with a bow. Bring the apples."
+      },
+      {
+        "name": "Ranger",
+        "description": "When you live in the woods and you're not a bandit you're a ranger."
+      },
+      {
+        "name": "Thief",
+        "description": "They'll go there if there's something to pinch."
+      },
+      {
+        "name": "Tower",
+        "description": "Standing tall and proud."
+      },
+      {
+        "name": "Wall",
+        "description": "Safe between bricks and stone."
+      },
+      {
+        "name": "Warrior hero",
+        "description": "Limited to one unit at a time."
+      },
+      {
+        "name": "Wizard hero",
+        "description": "Limited to one unit at a time."
+      },
+      {
+        "name": "Ranger hero",
+        "description": "Limited to one unit at a time."
+      }
+    ]
+  ]
+}

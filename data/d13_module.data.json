@@ -1,0 +1,1332 @@
+[
+  [
+    {
+      "id": 0,
+      "icon": "module_goldmine_0.png",
+      "active": true,
+      "priority": -1,
+      "type": "harvest",
+      "maxLevel": 3,
+      "inputResource": 3,
+      "ratio": 7,
+      "maxInput": 30,
+      "duration": 1,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "maxInstances": 3,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "pending.png"
+        },
+        {
+          "level": 1,
+          "image": "module_goldmine_0.png"
+        }
+      ],
+      "outputResource": [
+        0
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 100
+        },
+        {
+          "resource": 1,
+          "value": 300
+        },
+        {
+          "resource": 2,
+          "value": 200
+        }
+      ],
+      "requirements": [
+        
+      ],
+      "options": {
+        "inventoryList": true
+      },
+      "upgrades": [
+        0
+      ]
+    },
+    {
+      "id": 1,
+      "icon": "module_lumbermill_0.png",
+      "active": true,
+      "priority": 1,
+      "type": "harvest",
+      "maxLevel": 3,
+      "inputResource": 3,
+      "ratio": 10,
+      "maxInput": 30,
+      "duration": 1,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "maxInstances": 3,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "pending.png"
+        },
+        {
+          "level": 1,
+          "image": "module_lumbermill_0.png"
+        }
+      ],
+      "outputResource": [
+        1
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 100
+        },
+        {
+          "resource": 1,
+          "value": 300
+        },
+        {
+          "resource": 2,
+          "value": 200
+        }
+      ],
+      "requirements": [
+        
+      ],
+      "options": {
+        "inventoryList": true
+      },
+      "upgrades": [
+        1
+      ]
+    },
+    {
+      "id": 2,
+      "icon": "module_ironmine_0.png",
+      "active": true,
+      "priority": 2,
+      "type": "harvest",
+      "maxLevel": 3,
+      "inputResource": 3,
+      "ratio": 6,
+      "maxInput": 30,
+      "duration": 1,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "maxInstances": 3,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "pending.png"
+        },
+        {
+          "level": 1,
+          "image": "module_ironmine_0.png"
+        }
+      ],
+      "outputResource": [
+        2
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 300
+        },
+        {
+          "resource": 1,
+          "value": 300
+        },
+        {
+          "resource": 2,
+          "value": 100
+        }
+      ],
+      "requirements": [
+        
+      ],
+      "options": {
+        "inventoryList": true
+      },
+      "upgrades": [
+        2
+      ]
+    },
+    {
+      "id": 3,
+      "icon": "module_armorsmith_0.png",
+      "active": true,
+      "priority": 3,
+      "type": "craft",
+      "maxLevel": 1,
+      "inputResource": 3,
+      "ratio": 0.05,
+      "maxInput": 10,
+      "duration": 5,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "maxInstances": 3,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "pending.png"
+        },
+        {
+          "level": 1,
+          "image": "module_armorsmith_0.png"
+        }
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 300
+        },
+        {
+          "resource": 1,
+          "value": 700
+        },
+        {
+          "resource": 2,
+          "value": 500
+        }
+      ],
+      "requirements": [
+        {
+          "active": true,
+          "type": "modules",
+          "id": 0,
+          "level": 1
+        },
+        {
+          "active": true,
+          "type": "modules",
+          "id": 1,
+          "level": 1
+        },
+        {
+          "active": true,
+          "type": "modules",
+          "id": 2,
+          "level": 1
+        },
+        {
+          "active": true,
+          "type": "technologies",
+          "id": 0,
+          "level": 1
+        }
+      ],
+      "options": {
+        "inventoryList": true
+      },
+      "upgrades": [
+        3
+      ],
+      "components": [
+        0,
+        1,
+        2,
+        8
+      ]
+    },
+    {
+      "id": 4,
+      "icon": "module_weaponshop_0.png",
+      "active": true,
+      "priority": 4,
+      "type": "craft",
+      "maxLevel": 1,
+      "inputResource": 3,
+      "ratio": 0.05,
+      "maxInput": 10,
+      "duration": 5,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "maxInstances": 3,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "pending.png"
+        },
+        {
+          "level": 1,
+          "image": "module_weaponshop_0.png"
+        }
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 300
+        },
+        {
+          "resource": 1,
+          "value": 700
+        },
+        {
+          "resource": 2,
+          "value": 500
+        }
+      ],
+      "requirements": [
+        {
+          "active": true,
+          "type": "modules",
+          "id": 0,
+          "level": 1
+        },
+        {
+          "active": true,
+          "type": "modules",
+          "id": 1,
+          "level": 1
+        },
+        {
+          "active": true,
+          "type": "modules",
+          "id": 2,
+          "level": 1
+        },
+        {
+          "active": true,
+          "type": "technologies",
+          "id": 0,
+          "level": 1
+        }
+      ],
+      "options": {
+        "inventoryList": true
+      },
+      "upgrades": [
+        104
+      ],
+      "components": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": 5,
+      "icon": "module_barracks_0.png",
+      "active": true,
+      "priority": 5,
+      "type": "train",
+      "maxLevel": 1,
+      "inputResource": 3,
+      "ratio": 0.05,
+      "maxInput": 10,
+      "duration": 10,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "maxInstances": 3,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "pending.png"
+        },
+        {
+          "level": 1,
+          "image": "module_barracks_0.png"
+        }
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 400
+        },
+        {
+          "resource": 1,
+          "value": 900
+        },
+        {
+          "resource": 2,
+          "value": 600
+        }
+      ],
+      "requirements": [
+        {
+          "active": true,
+          "type": "modules",
+          "id": 3,
+          "level": 1
+        },
+        {
+          "active": true,
+          "type": "modules",
+          "id": 4,
+          "level": 1
+        },
+        {
+          "active": true,
+          "type": "technologies",
+          "id": 1,
+          "level": 1
+        }
+      ],
+      "options": {
+        "inventoryList": true
+      },
+      "upgrades": [
+        5
+      ],
+      "units": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        10,
+        17,
+        18
+      ]
+    },
+    {
+      "id": 6,
+      "icon": "module_stables_0.png",
+      "active": true,
+      "priority": 6,
+      "type": "train",
+      "maxLevel": 1,
+      "inputResource": 3,
+      "ratio": 0.05,
+      "maxInput": 10,
+      "duration": 10,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "maxInstances": 3,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "pending.png"
+        },
+        {
+          "level": 1,
+          "image": "module_stables_0.png"
+        }
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 300
+        },
+        {
+          "resource": 1,
+          "value": 700
+        },
+        {
+          "resource": 2,
+          "value": 500
+        }
+      ],
+      "requirements": [
+        {
+          "active": true,
+          "type": "modules",
+          "id": 5,
+          "level": 1
+        },
+        {
+          "active": true,
+          "type": "technologies",
+          "id": 3,
+          "level": 1
+        }
+      ],
+      "options": {
+        "inventoryList": true
+      },
+      "upgrades": [
+        6
+      ],
+      "units": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "id": 7,
+      "icon": "module_mercenarytent_0.png",
+      "active": true,
+      "priority": 7,
+      "type": "train",
+      "maxLevel": 1,
+      "inputResource": 3,
+      "ratio": 0.05,
+      "maxInput": 10,
+      "duration": 10,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "maxInstances": 3,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "pending.png"
+        },
+        {
+          "level": 1,
+          "image": "module_mercenarytent_0.png"
+        }
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 1000
+        },
+        {
+          "resource": 1,
+          "value": 2000
+        },
+        {
+          "resource": 2,
+          "value": 1500
+        }
+      ],
+      "requirements": [
+        {
+          "active": true,
+          "type": "technologies",
+          "id": 4,
+          "level": 1
+        }
+      ],
+      "options": {
+        "inventoryList": true
+      },
+      "upgrades": [
+        7
+      ],
+      "units": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "id": 8,
+      "icon": "module_laboratory_0.png",
+      "active": true,
+      "priority": 8,
+      "type": "research",
+      "maxLevel": 1,
+      "inputResource": 3,
+      "ratio": 0.05,
+      "maxInput": 10,
+      "duration": 10,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "maxInstances": 3,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "pending.png"
+        },
+        {
+          "level": 1,
+          "image": "module_laboratory_0.png"
+        }
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 500
+        },
+        {
+          "resource": 1,
+          "value": 800
+        },
+        {
+          "resource": 2,
+          "value": 700
+        }
+      ],
+      "requirements": [
+        
+      ],
+      "options": {
+        "inventoryList": true
+      },
+      "upgrades": [
+        8
+      ],
+      "technologies": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": 9,
+      "icon": "module_marketplace_0.png",
+      "active": true,
+      "priority": 9,
+      "type": "market",
+      "maxLevel": 1,
+      "inputResource": 3,
+      "ratio": 1,
+      "maxInput": 10,
+      "duration": 10,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "maxInstances": 1,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "pending.png"
+        },
+        {
+          "level": 1,
+          "image": "module_marketplace_0.png"
+        }
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 600
+        },
+        {
+          "resource": 1,
+          "value": 600
+        },
+        {
+          "resource": 2,
+          "value": 300
+        }
+      ],
+      "requirements": [
+        {
+          "active": true,
+          "type": "technologies",
+          "id": 4,
+          "level": 1
+        }
+      ],
+       "options": {
+        "inventoryList": true
+      },
+      "inventory": [
+      	 {
+      	  "object": "resource",
+      	  "id": 1
+      	 },
+      	 {
+      	  "object": "resource",
+      	  "id": 2
+      	 },
+      	 {
+      	  "object": "component",
+      	  "id": 0
+      	 },
+      	 {
+          "object": "shield",
+          "id": 0
+         },
+      	{
+          "object": "buff",
+          "id": 0
+         }
+      ],
+      "upgrades": [
+        9
+      ]
+    },
+    {
+      "id": 10,
+      "icon": "module_goldstorage_0.png",
+      "active": true,
+      "priority": 10,
+      "type": "storage",
+      "maxLevel": 1,
+      "inputResource": 3,
+      "ratio": 100,
+      "maxInput": 10,
+      "duration": 5,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "maxInstances": 3,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "pending.png"
+        },
+        {
+          "level": 1,
+          "image": "module_goldstorage_0.png"
+        }
+      ],
+      "storedResource": [
+        0
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 300
+        },
+        {
+          "resource": 1,
+          "value": 700
+        },
+        {
+          "resource": 2,
+          "value": 500
+        }
+      ],
+      "requirements": [
+        {
+          "active": true,
+          "type": "modules",
+          "id": 0,
+          "level": 1
+        },
+        {
+          "active": true,
+          "type": "modules",
+          "id": 1,
+          "level": 1
+        },
+        {
+          "active": true,
+          "type": "modules",
+          "id": 2,
+          "level": 1
+        },
+        {
+          "active": true,
+          "type": "technologies",
+          "id": 4,
+          "level": 1
+        }
+      ],
+      "options": {
+        "inventoryList": true
+      },
+      "upgrades": [
+        10
+      ]
+    },
+    {
+      "id": 11,
+      "icon": "module_lumberstorage_0.png",
+      "active": true,
+      "priority": 11,
+      "type": "storage",
+      "maxLevel": 1,
+      "inputResource": 3,
+      "ratio": 100,
+      "maxInput": 10,
+      "duration": 5,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "maxInstances": 3,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "pending.png"
+        },
+        {
+          "level": 1,
+          "image": "module_lumberstorage_0.png"
+        }
+      ],
+      "storedResource": [
+        1
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 300
+        },
+        {
+          "resource": 1,
+          "value": 700
+        },
+        {
+          "resource": 2,
+          "value": 500
+        }
+      ],
+      "requirements": [
+        {
+          "active": true,
+          "type": "modules",
+          "id": 0,
+          "level": 1
+        },
+        {
+          "active": true,
+          "type": "modules",
+          "id": 1,
+          "level": 1
+        },
+        {
+          "active": true,
+          "type": "modules",
+          "id": 2,
+          "level": 1
+        },
+        {
+          "active": true,
+          "type": "technologies",
+          "id": 4,
+          "level": 1
+        }
+      ],
+      "options": {
+        "inventoryList": true
+      },
+      "upgrades": [
+        11
+      ]
+    },
+    {
+      "id": 12,
+      "icon": "module_ironstorage_0.png",
+      "active": true,
+      "priority": 12,
+      "type": "storage",
+      "maxLevel": 1,
+      "inputResource": 3,
+      "ratio": 100,
+      "maxInput": 10,
+      "duration": 5,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "maxInstances": 3,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "pending.png"
+        },
+        {
+          "level": 1,
+          "image": "module_ironstorage_0.png"
+        }
+      ],
+      "storedResource": [
+        2
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 300
+        },
+        {
+          "resource": 1,
+          "value": 700
+        },
+        {
+          "resource": 2,
+          "value": 500
+        }
+      ],
+      "requirements": [
+        {
+          "active": true,
+          "type": "modules",
+          "id": 0,
+          "level": 1
+        },
+        {
+          "active": true,
+          "type": "modules",
+          "id": 1,
+          "level": 1
+        },
+        {
+          "active": true,
+          "type": "modules",
+          "id": 2,
+          "level": 1
+        },
+        {
+          "active": true,
+          "type": "technologies",
+          "id": 4,
+          "level": 1
+        }
+      ],
+      "options": {
+        "inventoryList": true
+      },
+      "upgrades": [
+        12
+      ]
+    },
+    {
+      "id": 13,
+      "icon": "module_guildhouse_0.png",
+      "active": true,
+      "priority": 13,
+      "type": "alliance",
+      "maxLevel": 1,
+      "inputResource": 3,
+      "ratio": 100,
+      "maxInput": 10,
+      "duration": 5,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "maxInstances": 1,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "pending.png"
+        },
+        {
+          "level": 1,
+          "image": "module_guildhouse_0.png"
+        }
+      ],
+      "storedResource": [
+        0,
+        1,
+        2
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 300
+        },
+        {
+          "resource": 1,
+          "value": 700
+        },
+        {
+          "resource": 2,
+          "value": 500
+        }
+      ],
+      "requirements": [
+        {
+          "active": true,
+          "type": "modules",
+          "id": 0,
+          "level": 1
+        },
+        {
+          "active": true,
+          "type": "modules",
+          "id": 1,
+          "level": 1
+        },
+        {
+          "active": true,
+          "type": "modules",
+          "id": 2,
+          "level": 1
+        },
+        {
+          "active": true,
+          "type": "technologies",
+          "id": 4,
+          "level": 1
+        }
+      ],
+      "options": {
+        "allianceAdd": true,
+        "allianceGet": true,
+        "allianceSet": true,
+        "allianceEdit": true,
+        "allianceRemove": true,
+        "allianceInvite": true,
+        "allianceWar": true,
+        "alliancePeace": true,
+        "allianceRemoveMember": true
+      },
+      "upgrades": [
+        13
+      ]
+    },
+    {
+      "id": 14,
+      "icon": "module_townhall_0.png",
+      "active": true,
+      "priority": 14,
+      "type": "command",
+      "maxLevel": 2,
+      "inputResource": 3,
+      "ratio": 0.2,
+      "maxInput": 10,
+      "duration": 5,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "maxInstances": 1,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "pending.png"
+        },
+        {
+          "level": 1,
+          "image": "module_townhall_0.png"
+        }
+      ],
+      "outputResource": [
+        3
+      ],
+      "storedResource": [
+        0,
+        1,
+        2
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 300
+        },
+        {
+          "resource": 1,
+          "value": 700
+        },
+        {
+          "resource": 2,
+          "value": 500
+        }
+      ],
+      "requirements": [
+        
+      ],
+      "upgrades": [
+        14
+      ],
+      "options": {
+        "inventoryList": true,
+        "nodeMove": true,
+        "nodeRemove": true,
+        "nodeEdit": true
+      }
+    },
+    {
+      "id": 15,
+      "icon": "module_archertower_0.png",
+      "active": true,
+      "priority": 15,
+      "type": "defense",
+      "maxLevel": 3,
+      "inputResource": 3,
+      "ratio": 0,
+      "maxInput": 5,
+      "unitId": 17,
+      "duration": 5,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "maxInstances": 3,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "pending.png"
+        },
+        {
+          "level": 1,
+          "image": "module_archertower_0.png"
+        },
+        {
+          "level": 2,
+          "image": "module_archertower_1.png"
+        },
+        {
+          "level": 3,
+          "image": "module_archertower_2.png"
+        }
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 200
+        },
+        {
+          "resource": 1,
+          "value": 600
+        },
+        {
+          "resource": 2,
+          "value": 400
+        }
+      ],
+      "requirements": [
+        {
+          "active": true,
+          "type": "modules",
+          "id": 0,
+          "level": 1
+        },
+        {
+          "active": true,
+          "type": "modules",
+          "id": 1,
+          "level": 1
+        },
+        {
+          "active": true,
+          "type": "modules",
+          "id": 2,
+          "level": 1
+        }
+      ],
+      "options": [
+        
+      ],
+      "upgrades": [
+        15
+      ]
+    },
+    {
+      "id": 16,
+      "icon": "module_farm_0.png",
+      "active": true,
+      "priority": 16,
+      "type": "storvest",
+      "maxLevel": 1,
+      "inputResource": 3,
+      "ratio": 0.25,
+      "maxInput": 20,
+      "duration": 1,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "maxInstances": 3,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "pending.png"
+        },
+        {
+          "level": 1,
+          "image": "module_farm_0.png"
+        }
+      ],
+      "outputResource": [
+        5
+      ],
+      "storedResource": [
+        5
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 150
+        },
+        {
+          "resource": 1,
+          "value": 350
+        },
+        {
+          "resource": 2,
+          "value": 250
+        }
+      ],
+      "requirements": [
+        {
+          "active": true,
+          "type": "modules",
+          "id": 14,
+          "level": 1
+        }
+      ],
+      "options": [
+        
+      ],
+      "upgrades": [
+        16
+      ]
+    },
+    {
+      "id": 17,
+      "icon": "module_waracademy_0.png",
+      "active": true,
+      "priority": 17,
+      "type": "research",
+      "maxLevel": 1,
+      "inputResource": 3,
+      "ratio": 0.05,
+      "maxInput": 10,
+      "duration": 10,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "maxInstances": 2,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "pending.png"
+        },
+        {
+          "level": 1,
+          "image": "module_waracademy_0.png"
+        }
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 800
+        },
+        {
+          "resource": 1,
+          "value": 200
+        },
+        {
+          "resource": 2,
+          "value": 600
+        }
+      ],
+      "requirements": [
+        
+      ],
+      "options": {
+        "inventoryList": true
+      },
+      "upgrades": [
+        17
+      ],
+      "technologies": [
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119
+      ]
+    },
+    {
+      "id": 18,
+      "icon": "module_wargate_0.png",
+      "active": true,
+      "priority": 18,
+      "type": "warfare",
+      "maxLevel": 1,
+      "inputResource": 3,
+      "ratio": 0,
+      "maxInput": 5,
+      "duration": 5,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "maxInstances": 1,
+      "images": [
+        {
+          "level": 0,
+          "image": "pending.png"
+        },
+        {
+          "level": 1,
+          "image": "module_wargate_0.png"
+        }
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 300
+        },
+        {
+          "resource": 1,
+          "value": 700
+        },
+        {
+          "resource": 2,
+          "value": 500
+        }
+      ],
+      "requirements": [
+        {
+          "active": true,
+          "type": "modules",
+          "id": 14,
+          "level": 2
+        }
+      ],
+      "upgrades": [
+        18
+      ],
+      "options": {
+      	"inventoryList": true,
+        "raid": true,
+        "conquer": true,
+        "scout": true,
+        "raze": true,
+        "skirmish": true,
+        "sabotage": true
+      }
+    },
+    {
+      "id": 19,
+      "icon": "module_herohall_0.png",
+      "active": true,
+      "priority": 19,
+      "type": "train",
+      "maxLevel": 1,
+      "inputResource": 3,
+      "ratio": 0.05,
+      "maxInput": 10,
+      "duration": 10,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "maxInstances": 3,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "pending.png"
+        },
+        {
+          "level": 1,
+          "image": "module_herohall_0.png"
+        }
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 1000
+        },
+        {
+          "resource": 1,
+          "value": 2000
+        },
+        {
+          "resource": 2,
+          "value": 1500
+        }
+      ],
+      "requirements": [
+        {
+          "active": true,
+          "type": "technologies",
+          "id": 4,
+          "level": 1
+        }
+      ],
+      "options": {
+        "inventoryList": true
+      },
+      "upgrades": [
+        
+      ],
+      "units": [
+        19,
+        20,
+        21
+      ]
+    }
+  ]
+]

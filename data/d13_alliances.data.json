@@ -1,0 +1,80 @@
+[
+  	{
+  		"id": 0,
+  		"active": true,
+  		"level": 0,
+  		"image": "alliance0.png"
+  	},
+  	{
+  		"id": 1,
+  		"active": true,
+  		"level": 0,
+  		"image": "alliance1.png"
+  	},
+  	{
+  		"id": 2,
+  		"active": true,
+  		"level": 0,
+  		"image": "alliance2.png"
+  	},
+  	{
+  		"id": 3,
+  		"active": true,
+  		"level": 0,
+  		"image": "alliance3.png"
+  	},
+  	{
+  		"id": 4,
+  		"active": true,
+  		"level": 0,
+  		"image": "alliance4.png"
+  	},
+  	{
+  		"id": 5,
+  		"active": true,
+  		"level": 0,
+  		"image": "alliance5.png"
+  	},
+  	{
+  		"id": 6,
+  		"active": true,
+  		"level": 0,
+  		"image": "alliance6.png"
+  	},
+  	{
+  		"id": 7,
+  		"active": true,
+  		"level": 0,
+  		"image": "alliance7.png"
+  	},
+  	{
+  		"id": 8,
+  		"active": true,
+  		"level": 0,
+  		"image": "alliance8.png"
+  	},
+  	{
+  		"id": 9,
+  		"active": true,
+  		"level": 1,
+  		"image": "alliance9.png"
+  	},
+ 	{
+  		"id": 10,
+  		"active": true,
+  		"level": 1,
+  		"image": "alliance10.png"
+  	},
+  	{
+  		"id": 11,
+  		"active": true,
+  		"level": 2,
+  		"image": "alliance11.png"
+  	},
+  	{
+  		"id": 12,
+  		"active": true,
+  		"level": 3,
+  		"image": "alliance12.png"
+  	} 
+]

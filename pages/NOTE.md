@@ -1,0 +1,5 @@
+THIS FOLDER CONTENT IS OBSOLETE
+
+IT WILL BE REMOVED LATER, IT IS CURRENTLY KEPT FOR REFERENCE
+
+(I still require admin, getGrid and grid for example)

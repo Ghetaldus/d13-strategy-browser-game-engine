@@ -1,0 +1,394 @@
+[
+  [
+    {
+      "id": 0,
+      "icon": "0.png",
+      "active": true,
+      "priority": -1,
+      "type": "component",
+      "duration": 1,
+      "storageResource": 4,
+      "storage": 3,
+      "salvage": 0.5,
+      "removeDuration": 1,
+      "gainExperience": true,
+      "images": [
+      	 {
+          "level": 0,
+          "image": "0.png"
+        }
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 3
+        },
+        {
+          "resource": 1,
+          "value": 3
+        },
+        {
+          "resource": 2,
+          "value": 2
+        }
+      ],
+      "requirements": [
+        
+      ],
+      "upgrades": [
+        
+      ]
+    },
+    {
+      "id": 1,
+      "icon": "1.png",
+      "active": true,
+      "priority": -1,
+      "type": "component",
+      "duration": 1,
+      "storageResource": 4,
+      "storage": 3,
+      "salvage": 0.5,
+      "removeDuration": 1,
+	  "gainExperience": true,
+	  "images": [
+      	 {
+          "level": 0,
+          "image": "1.png"
+        }
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 5
+        },
+        {
+          "resource": 1,
+          "value": 5
+        },
+        {
+          "resource": 2,
+          "value": 2
+        }
+      ],
+      "requirements": [
+        
+      ],
+      "upgrades": [
+        
+      ]
+    },
+    {
+      "id": 2,
+      "icon": "2.png",
+      "active": true,
+      "priority": -1,
+      "type": "component",
+      "duration": 1,
+      "storageResource": 4,
+      "storage": 2,
+      "salvage": 0.5,
+      "removeDuration": 1,
+	  "gainExperience": true,
+	  "images": [
+      	 {
+          "level": 0,
+          "image": "2.png"
+        }
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 10
+        },
+        {
+          "resource": 1,
+          "value": 10
+        },
+        {
+          "resource": 2,
+          "value": 5
+        }
+      ],
+      "requirements": [
+        
+      ],
+      "upgrades": [
+        
+      ]
+    },
+    {
+      "id": 3,
+      "icon": "3.png",
+      "active": true,
+      "priority": -1,
+      "type": "component",
+      "duration": 1,
+      "storageResource": 4,
+      "storage": 1,
+      "salvage": 0.5,
+      "removeDuration": 1,
+	  "gainExperience": true,
+	  "images": [
+      	 {
+          "level": 0,
+          "image": "3.png"
+        }
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 5
+        },
+        {
+          "resource": 1,
+          "value": 5
+        },
+        {
+          "resource": 2,
+          "value": 3
+        }
+      ],
+      "requirements": [
+        
+      ],
+      "upgrades": [
+        
+      ]
+    },
+    {
+      "id": 4,
+      "icon": "4.png",
+      "active": true,
+      "priority": -1,
+      "type": "component",
+      "duration": 1,
+      "storageResource": 4,
+      "storage": 1,
+      "salvage": 0.5,
+      "removeDuration": 1,
+	  "gainExperience": true,
+	  "images": [
+      	 {
+          "level": 0,
+          "image": "4.png"
+        }
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 5
+        },
+        {
+          "resource": 1,
+          "value": 5
+        },
+        {
+          "resource": 2,
+          "value": 3
+        }
+      ],
+      "requirements": [
+        
+      ],
+      "upgrades": [
+        
+      ]
+    },
+    {
+      "id": 5,
+      "icon": "5.png",
+      "active": true,
+      "priority": -1,
+      "type": "component",
+      "duration": 1,
+      "storageResource": 4,
+      "storage": 1,
+      "salvage": 0.5,
+      "removeDuration": 1,
+	  "gainExperience": true,
+	  "images": [
+      	 {
+          "level": 0,
+          "image": "5.png"
+        }
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 4
+        },
+        {
+          "resource": 1,
+          "value": 7
+        },
+        {
+          "resource": 2,
+          "value": 2
+        }
+      ],
+      "requirements": [
+        
+      ],
+      "upgrades": [
+        
+      ]
+    },
+    {
+      "id": 6,
+      "icon": "6.png",
+      "active": true,
+      "priority": -1,
+      "type": "component",
+      "duration": 1,
+      "storageResource": 4,
+      "storage": 1,
+      "salvage": 0.5,
+      "removeDuration": 1,
+	  "gainExperience": true,
+	  "images": [
+      	 {
+          "level": 0,
+          "image": "6.png"
+        }
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 6
+        },
+        {
+          "resource": 1,
+          "value": 7
+        },
+        {
+          "resource": 2,
+          "value": 4
+        }
+      ],
+      "requirements": [
+        
+      ],
+      "upgrades": [
+        
+      ]
+    },
+    {
+      "id": 7,
+      "icon": "7.png",
+      "active": true,
+      "priority": -1,
+      "type": "component",
+      "duration": 1,
+      "storageResource": 4,
+      "storage": 1,
+      "salvage": 0.5,
+      "removeDuration": 1,
+	  "gainExperience": true,
+	  "images": [
+      	 {
+          "level": 0,
+          "image": "7.png"
+        }
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 8
+        },
+        {
+          "resource": 1,
+          "value": 8
+        },
+        {
+          "resource": 2,
+          "value": 4
+        }
+      ],
+      "requirements": [
+        
+      ],
+      "upgrades": [
+        
+      ]
+    },
+    {
+      "id": 8,
+      "icon": "8.png",
+      "active": true,
+      "priority": -1,
+      "type": "component",
+      "duration": 1,
+      "storageResource": 4,
+      "storage": 2,
+      "salvage": 0.5,
+      "removeDuration": 1,
+	  "gainExperience": true,
+	  "images": [
+      	 {
+          "level": 0,
+          "image": "8.png"
+        }
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 10
+        },
+        {
+          "resource": 1,
+          "value": 10
+        },
+        {
+          "resource": 2,
+          "value": 10
+        }
+      ],
+      "requirements": [
+        
+      ],
+      "upgrades": [
+        
+      ]
+    },
+    {
+      "id": 9,
+      "icon": "9.png",
+      "active": true,
+      "priority": -1,
+      "type": "component",
+      "duration": 1,
+      "storageResource": 4,
+      "storage": 2,
+      "salvage": 0.5,
+      "removeDuration": 1,
+	  "gainExperience": true,
+	  "images": [
+      	 {
+          "level": 0,
+          "image": "9.png"
+        }
+      ],
+      "cost": [
+        {
+          "resource": 0,
+          "value": 10
+        },
+        {
+          "resource": 1,
+          "value": 10
+        },
+        {
+          "resource": 2,
+          "value": 10
+        }
+      ],
+      "requirements": [
+        
+      ],
+      "upgrades": [
+        
+      ]
+    }
+  ]
+]

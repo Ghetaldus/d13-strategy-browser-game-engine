@@ -1,0 +1,87 @@
+{
+  	"raid": {
+  		"id": 0,
+  		"active": true,
+  		"level": 1,
+  		"movementTypes": [
+  		0,1,2
+  		],
+  		"string": "raid",
+  		"requiresLeader": false,
+  		"requiresWipeout": false,
+  		"requiresScoutCheck": false,
+  		"scoutReport" : false,
+  		"nodeDefenderConquer": false,
+  		"nodeDefenderRemove": false,
+  		"lootAttacker": true,
+  		"sabotageDefender": false
+  	},
+    "conquer": {
+    	"id": 1,
+    	"active": true,
+    	"level": 1,
+  		"movementTypes": [
+  		0,1,2
+  		],
+    	"string": "conquer",
+    	"requiresLeader": true,
+    	"requiresWipeout": true,
+    	"requiresScoutCheck": false,
+  		"scoutReport" : false,
+  		"nodeDefenderConquer": false,
+  		"nodeDefenderRemove": false,
+  		"lootAttacker": false,
+  		"sabotageDefender": false
+    },
+    "scout": {
+    	"id": 2,
+    	"active": true,
+    	"level": 1,
+  		"movementTypes": [
+  		0,1,2
+  		],
+    	"string": "scout",
+    	"requiresLeader": false,
+    	"requiresWipeout": false,
+    	"requiresScoutCheck": true,
+  		"scoutReport" : true,
+  		"nodeDefenderConquer": false,
+  		"nodeDefenderRemove": false,
+  		"lootAttacker": false,
+  		"sabotageDefender": false
+    },
+	"raze": {
+		"id": 3,
+		"active": true,
+		"level": 1,
+  		"movementTypes": [
+  		0,1,2
+  		],
+		"string": "raze",
+		"requiresLeader": true,
+		"requiresWipeout": true,
+		"requiresScoutCheck": false,
+  		"scoutReport" : false,
+  		"nodeDefenderConquer": false,
+  		"nodeDefenderRemove": true,
+  		"lootAttacker": true,
+  		"sabotageDefender": false
+	},
+    "sabotage": {
+    	"id": 4,
+    	"active": false,
+    	"level": 1,
+  		"movementTypes": [
+  		0,1,2
+  		],
+    	"string": "sabotage",
+    	"requiresLeader": false,
+    	"requiresWipeout": false,
+    	"requiresScoutCheck": true,
+  		"scoutReport" : false,
+  		"nodeDefenderConquer": false,
+  		"nodeDefenderRemove": false,
+  		"lootAttacker": true,
+  		"sabotageDefender": false
+    }
+}

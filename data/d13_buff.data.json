@@ -1,0 +1,31 @@
+[
+  {
+    "id": 0,
+    "icon": "buff.png",
+    "active": true,
+    "priority": 5,
+    "duration": 60,
+    "type": "efficiency",
+    "buff": "harvest",
+    "modifier": 0.1,
+    "cost": [
+		{
+		"resource": 0,
+		"value": 100
+		}
+	],
+	"requirements": [
+		{
+		"type": "modules",
+		"id": 14,
+		"level": 1
+		}
+	],
+	"images": [
+      	 {
+          "level": 0,
+          "image": "buff.png"
+        }
+      ]
+  }
+]

@@ -1,0 +1,187 @@
+[
+  {
+    "id": 0,
+    "icon": "0.png",
+    "color": "yellow",
+    "active": true,
+    "priority": 5,
+    "storage": 5000,
+    "type": "dynamic",
+    "visible": true,
+    "rarity": 50,
+    "autoproduction": 0,
+    "limited": true,
+    "carryable": true,
+    "tradeable": true,
+    "buyable": true,
+    "lootable": true,
+    "cost": [
+		{
+			"resource": 0,
+			"value": 150
+		}
+	],
+	"requirements": [
+	],
+	"images": [
+      	 {
+          "level": 0,
+          "image": "0.png"
+        }
+      ]
+  },
+  {
+    "id": 1,
+    "icon": "1.png",
+    "color": "black",
+    "active": true,
+    "priority": 4,
+    "storage": 5000,
+    "type": "dynamic",
+    "visible": true,
+    "rarity": 50,
+    "autoproduction": 0,
+    "limited": true,
+    "carryable": true,
+    "tradeable": true,
+    "buyable": true,
+    "lootable": true,
+    "cost": [
+		{
+			"resource": 0,
+			"value": 150
+		}
+	],
+	"requirements": [
+	],
+	"images": [
+      	 {
+          "level": 0,
+          "image": "1.png"
+        }
+      ]
+  },
+  {
+    "id": 2,
+    "icon": "2.png",
+    "color": "gray",
+    "active": true,
+    "priority": 3,
+    "storage": 5000,
+    "type": "dynamic",
+    "visible": true,
+    "rarity": 50,
+    "autoproduction": 0,
+    "limited": true,
+    "carryable": true,
+    "tradeable": true,
+    "buyable": true,
+    "lootable": true,
+    "cost": [
+		{
+			"resource": 0,
+			"value": 150
+		}
+	],
+	"requirements": [
+	],
+	"images": [
+      	 {
+          "level": 0,
+          "image": "2.png"
+        }
+      ]
+  },
+  {
+    "id": 3,
+    "icon": "3.png",
+    "color": "orange",
+    "active": true,
+    "priority": 2,
+    "storage": 100,
+    "type": "dynamic",
+    "visible": true,
+    "rarity": 50,
+    "autoproduction": 0,
+    "limited": true,
+    "carryable": false,
+    "tradeable": true,
+    "buyable": true,
+    "lootable": true,
+    "cost": [
+		{
+			"resource": 0,
+			"value": 150
+		}
+	],
+	"requirements": [
+	],
+	"images": [
+      	 {
+          "level": 0,
+          "image": "3.png"
+        }
+      ]
+  },
+  {
+    "id": 4,
+    "icon": "4.png",
+    "color": "white",
+    "active": true,
+    "priority": 1,
+    "storage": 200,
+    "type": "static",
+    "visible": true,
+    "rarity": 50,
+    "autoproduction": 0,
+    "limited": true,
+    "carryable": false,
+    "tradeable": true,
+    "buyable": true,
+    "lootable": true,
+    "cost": [
+		{
+			"resource": 0,
+			"value": 150
+		}
+	],
+	"requirements": [
+	],
+	"images": [
+      	 {
+          "level": 0,
+          "image": "4.png"
+        }
+      ]
+  },
+  {
+    "id": 5,
+    "icon": "5.png",
+    "color": "red",
+    "active": true,
+    "priority": 0,
+    "storage": 200,
+    "type": "dynamic",
+    "visible": true,
+    "rarity": 50,
+    "limited": true,
+    "carryable": false,
+    "tradeable": true,
+    "buyable": true,
+    "lootable": true,
+    "cost": [
+		{
+			"resource": 0,
+			"value": 150
+		}
+	],
+	"requirements": [
+	],
+	"images": [
+      	 {
+          "level": 0,
+          "image": "5.png"
+        }
+      ]
+  }
+]

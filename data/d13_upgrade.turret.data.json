@@ -1,0 +1,16 @@
+[
+  [
+    {
+      "active": true,
+      "type": "turret",
+      "id": 0,
+      "battlestats": [
+      	{
+        "stat": "all",
+        "value": 2
+      	}
+      ]
+    }
+    
+  ]
+]
